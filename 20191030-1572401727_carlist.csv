@@ -1,0 +1,981 @@
+Merek,Varian,Model,Tahun,Jarak tempuh,Tipe bahan bakar,Warna,Transmisi,Sistem Penggerak,Tipe bodi,Kapasitas mesin,Harga
+Mercedes-Benz,?,A-Class,2015,35.000-40.000 km,Bensin,Hitam,Automatic,?,?,>1.500 - 2.000 cc,415000000
+Toyota,TRD,Fortuner,2013,55.000-60.000 km,Diesel,Putih,Automatic,4X2,Jeep,>2.000 - 3.000 cc,287500000
+Toyota,G,Avanza,2011,60.000-65.000 km,Bensin,Hitam,Manual,4X4,Compact & City Car,>2.000 - 3.000 cc,120000000
+Daihatsu,?,Sigra,2019,0-5.000 km,Bensin,Lainnya,Manual,?,?,?,110000000
+Toyota,G,Calya,2018,5.000-10.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,127000000
+Suzuki,RC1,SX4,2012,55.000-60.000 km,Bensin,Putih,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,125000000
+Toyota,G Luxury,Innova,2012,70.000-75.000 km,Bensin,Putih,Automatic,Rear Wheel Drive (RWD),Minibus,>1.500 - 2.000 cc,160000000
+Toyota,G,Agya,2015,65.000-70.000 km,Bensin,Putih,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,89000000
+Mazda,R,2,2014,15.000-20.000 km,Bensin,Putih,Manual,All Wheel Drive (AWD),Compact & City Car,>1.000 - 1.500 cc,165000000
+Toyota,S,Rush,2012,80.000-85.000 km,Bensin,Putih,Manual,?,?,?,156000000
+Honda,i-DSI,Jazz,2004,150.000-155.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,69000000
+Toyota,E,Avanza,2017,75.000-80.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,138000000
+Suzuki,GX,Katana,1996,90.000-95.000 km,Bensin,Merah,Manual,4X2,Jeep,>1.000 - 1.500 cc,45000000
+Mitsubishi,V6-24,Galant,2004,155.000-160.000 km,Bensin,Hitam,Manual,4X2,Sedan,>2.000 - 3.000 cc,93000000
+Toyota,Luxury Veloz,Avanza,2014,35.000-40.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,143000000
+Suzuki,GX,Katana,2002,105.000-110.000 km,Bensin,Hijau,Manual,4X2,Jeep,>1.000 - 1.500 cc,58000000
+Honda,RS CVT,Jazz,2015,50.000-55.000 km,Bensin,Abu-abu,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,188000000
+Honda,2.0 i-VTEC,CR-V,2005,155.000-160.000 km,Bensin,Hitam,Manual,4X2,Jeep,>1.500 - 2.000 cc,105000000
+Toyota,G,Sienta,2017,5.000-10.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.000 - 1.500 cc,200000000
+Toyota,TRD Sportivo,Yaris,2015,30.000-35.000 km,Bensin,Merah,Automatic,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,165000000
+Daihatsu,TX,Terios,2010,100.000-105.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.000 - 1.500 cc,115000000
+Toyota,G,Rush,2013,>300.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Jeep,>1.000 - 1.500 cc,143000000
+Honda,E,Freed,2013,60.000-65.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,?,167000000
+Mitsubishi,Dakar 2.4,Pajero Sport,2018,20.000-25.000 km,Diesel,Putih,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,457500000
+Toyota,G,Avanza,2010,140.000-145.000 km,Bensin,Silver,Automatic,4X2,MPV,>1.000 - 1.500 cc,120000000
+Mercedes-Benz,CLA200,CLA-Class,2015,10.000-15.000 km,Bensin,Hitam,Automatic,?,?,>1.500 - 2.000 cc,420000000
+Toyota,G,Avanza,2014,40.000-45.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,140000000
+Hyundai,Lain-lain,Getz,2004,185.000-190.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,63000000
+Mazda,R,2,2014,15.000-20.000 km,Bensin,Putih,Manual,All Wheel Drive (AWD),Compact & City Car,>1.000 - 1.500 cc,165000000
+Land Rover,Lain-lain,Range rover,2012,35.000-40.000 km,Bensin,Hitam,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,570000000
+Toyota,Lain-lain,Lain-lain,1991,0-5.000 km,Bensin,Biru,Manual,4X2,Minibus,>1.500 - 2.000 cc,35000000
+Daihatsu,1.2 R,Sigra,2017,55.000-60.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,99000000
+?,?,?,?,?,?,?,?,?,?,?,?
+Daihatsu,CL,Taruna,1999,200.000-205.000 km,Bensin,Abu-abu,Manual,Rear Wheel Drive (RWD),?,?,50000000
+Suzuki,GX,Ertiga,2015,50.000-55.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,132000000
+Land Rover,Lain-lain,Range Rover Evoque,2012,30.000-35.000 km,Bensin,Hitam,Automatic Triptonic,All Wheel Drive (AWD),Jeep,>2.000 - 3.000 cc,588000000
+Nissan,?,Livina,2019,0-5.000 km,Bensin,Merah,Manual,?,?,?,229500000
+Honda,Sports E,Brio,2014,30.000-35.000 km,Bensin,Merah,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,99999975
+Mitsubishi,Exceed,Pajero Sport,2015,70.000-75.000 km,Diesel,Putih,Automatic,4X2,SUV,>2.000 - 3.000 cc,290000000
+Toyota,VRZ,Fortuner,2017,30.000-35.000 km,Diesel,Hitam,Automatic,4X2,SUV,>2.000 - 3.000 cc,395000000
+Suzuki,GL MT ,Ignis,2019,0-5.000 km,Bensin,Hitam,Manual,?,?,?,120000000
+Toyota,E,Avanza,2005,130.000-135.000 km,Bensin,Kuning,Manual,4X2,MPV,>1.000 - 1.500 cc,65000000
+Honda,i-DSI,Jazz,2007,110.000-115.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,80000000
+Daihatsu,TX,Terios,2011,85.000-90.000 km,Bensin,Putih,Manual,?,?,?,120000000
+Honda,RS 1.2,Brio,2017,35.000-40.000 km,Bensin,Putih,Manual,All Wheel Drive (AWD),Compact & City Car,>1.000 - 1.500 cc,137000000
+Opel,Montera LN,Blazer,2001,245.000-250.000 km,Bensin,Hitam,Manual,4X2,SUV,>2.000 - 3.000 cc,45000000
+Daihatsu,Li Sporty,Xenia,2009,110.000-115.000 km,Bensin,Hitam,Manual,?,Minibus,<1.000 cc,79000000
+Hyundai,GLS,Atoz,2004,150.000-155.000 km,Bensin,Biru,Manual,4X2,Sedan,<1.000 cc,47000000
+Toyota,G,Avanza,2008,60.000-65.000 km,Bensin,Lainnya,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,110000000
+Toyota,G,Etios,2014,70.000-75.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,97500000
+Daihatsu,Lain-lain,Gran max Pick-up,2012,40.000-45.000 km,Bensin,Silver,Manual,4X2,Pick-up,>1.000 - 1.500 cc,63000000
+Toyota,E,Yaris,2012,60.000-65.000 km,Bensin,Hitam,Manual,?,Compact & City Car,>1.000 - 1.500 cc,116000000
+Nissan,1.2L,March,2011,105.000-110.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,79000000
+Toyota,S,Yaris,2011,30.000-35.000 km,Bensin,Silver,Manual,?,?,?,99500000
+Honda,?,Brio,2019,0-5.000 km,Bensin,Lainnya,Automatic,?,?,?,166000000
+Nissan,HWS,Serena,2012,110.000-115.000 km,Bensin,Silver,Automatic,4X2,MPV,>1.500 - 2.000 cc,117000000
+Daihatsu,Xi Special Edition,Xenia,2009,55.000-60.000 km,Bensin,Silver,Manual,4X2,MPV,>1.000 - 1.500 cc,82000000
+Toyota,G,Vios,2007,140.000-145.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,79500000
+Daihatsu,R,Terios,2016,30.000-35.000 km,Bensin,Putih,Manual,?,?,?,172000000
+Honda,RS 1.2,Brio,2017,35.000-40.000 km,Bensin,Putih,Manual,All Wheel Drive (AWD),Compact & City Car,>1.000 - 1.500 cc,137000000
+Toyota,VRZ,Fortuner,2018,30.000-35.000 km,Diesel,Hitam,Automatic,4X2,Jeep,>2.000 - 3.000 cc,275000000
+Nissan,Lain-lain,Grand livina,2010,100.000-105.000 km,Bensin,Hitam,Manual,?,Minibus,>1.000 - 1.500 cc,105000000
+Toyota,G,Innova,2011,85.000-90.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Minibus,>1.500 - 2.000 cc,149000000
+Honda,2.4L Vti,Accord,2004,195.000-200.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,90000000
+Toyota,G,Calya,2018,10.000-15.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,114900000
+Toyota,G TRD,Fortuner,2014,40.000-45.000 km,Diesel,Hitam,Automatic,Rear Wheel Drive (RWD),SUV,>2.000 - 3.000 cc,325000000
+Toyota,G,Avanza,2012,115.000-120.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,99000000
+Suzuki,RV. Gx,Carry,2013,45.000-50.000 km,Bensin,Merah,Manual,4X2,MPV,>1.000 - 1.500 cc,75000000
+BMW,318i E46 Facelift 2.0,Serie 3,2003,60.000-65.000 km,Bensin,Hitam,Automatic Triptonic,Rear Wheel Drive (RWD),Sedan,>1.500 - 2.000 cc,89000000
+Toyota,G,Avanza,2013,90.000-95.000 km,Bensin,Hitam,Manual,4X2,Minibus,?,118000000
+Suzuki,GL,Ertiga,2016,40.000-45.000 km,Bensin,Putih,Automatic,?,?,?,145000000
+Toyota,E,Avanza,2014,80.000-85.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,125000000
+Toyota,G,Avanza,2004,95.000-100.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,82000000
+Daihatsu,R 1.3 Sporty,Xenia,2016,30.000-35.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,135000000
+Toyota,G,Avanza,2017,25.000-30.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,154000000
+Honda,RS CVT,Jazz,2017,20.000-25.000 km,Bensin,Oranye,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,228000000
+Mitsubishi,Dakar 2.4,Pajero Sport,2018,10.000-15.000 km,Diesel,Putih,Automatic Triptonic,4X2,MPV,>2.000 - 3.000 cc,490000000
+Toyota,2.5 G,Alphard,2018,5.000-10.000 km,Bensin,Hitam,Automatic,4X2,MPV,>2.000 - 3.000 cc,1050000000
+Toyota,Veloz,Avanza,2011,95.000-100.000 km,Bensin,Silver,Automatic Triptonic,4X2,Minibus,>1.000 - 1.500 cc,125000000
+Chevrolet,LT,Aveo,2013,15.000-20.000 km,Bensin,Hitam,Automatic,?,MPV,?,108000000
+Toyota,G,Avanza,2014,30.000-35.000 km,Bensin,Putih,Manual,?,SUV,>1.000 - 1.500 cc,150000000
+Toyota,G TRD,Fortuner,2014,40.000-45.000 km,Diesel,Hitam,Automatic,Rear Wheel Drive (RWD),SUV,>2.000 - 3.000 cc,325000000
+Toyota,TRD Sportivo,Yaris,2014,95.000-100.000 km,Bensin,Oranye,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,165000000
+Suzuki,GX,Ertiga,2014,95.000-100.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,120000000
+Suzuki,GL,Ertiga,2016,30.000-35.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,153000000
+Nissan,Lain-lain,X-Trail,2011,80.000-85.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,120000000
+Suzuki,Lain-lain,Escudo,2001,275.000-280.000 km,Bensin,Silver,Manual,4X2,SUV,>1.500 - 2.000 cc,65000000
+Toyota,1.3,Corolla,1997,45.000-50.000 km,Bensin,Emas,Automatic,4X2,Sedan,>1.500 - 2.000 cc,38500000
+Toyota,Q,Sienta,2016,30.000-35.000 km,Bensin,Oranye,Automatic Triptonic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,205000000
+Toyota,G,Calya,2017,35.000-40.000 km,Bensin,Merah,Manual,4X2,MPV,>1.000 - 1.500 cc,112000000
+Daihatsu,TS Extra,Terios,2014,35.000-40.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),SUV,>1.000 - 1.500 cc,137000000
+Chevrolet,LT,Spin,2013,90.000-95.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,85000000
+Suzuki,GL,Ertiga,2012,65.000-70.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,116000000
+Daihatsu,Lain-lain,Espass,2003,230.000-235.000 km,Bensin,Merah,Manual,4X2,Wagon,>1.000 - 1.500 cc,39000000
+BMW,sDrive18i Executive,X1,2017,10.000-15.000 km,Bensin,Hitam,Automatic Triptonic,4X2,Jeep,>1.500 - 2.000 cc,550000000
+Chevrolet,?,Spin,2014,80.000-85.000 km,Bensin,Abu-abu,Automatic,?,MPV,>1.000 - 1.500 cc,99000000
+BMW,523i,Serie 5,2008,30.000-35.000 km,Bensin,Hitam,Automatic Triptonic,Rear Wheel Drive (RWD),Sedan,>2.000 - 3.000 cc,190000000
+Isuzu,2.8 Minibus Diesel,Elf Minibus,2013,95.000-100.000 km,Diesel,Silver,Manual,4X4,Sports & Super Car,>2.000 - 3.000 cc,128500000
+Toyota,G,Innova,2007,75.000-80.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,110000000
+Honda,E Prestige,Mobilio,2014,100.000-105.000 km,Bensin,Putih,Automatic,?,?,?,120000000
+Toyota,G,Avanza,2011,40.000-45.000 km,Bensin,Hitam,Automatic,4X2,SUV,>1.000 - 1.500 cc,105800000
+Mitsubishi,V6-24,Galant,2000,165.000-170.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,65000000
+Toyota,G,Innova,2008,90.000-95.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.500 - 2.000 cc,133000000
+Toyota,TRD Sportivo,Yaris,2014,50.000-55.000 km,Bensin,Putih,Manual,?,?,?,160000000
+Isuzu,2.8 Minibus Diesel,Elf Minibus,2000,40.000-45.000 km,Diesel,Biru,Manual,?,Minibus,>2.000 - 3.000 cc,66000000
+Honda,2.4 i-VTEC,CR-V,2010,90.000-95.000 km,Bensin,Silver,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,162000000
+Toyota,Lain-lain,Vios,2013,260.000-265.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,85000000
+Toyota,G,Avanza,2011,105.000-110.000 km,Bensin,Hitam,Manual,?,Minibus,>1.000 - 1.500 cc,95500000
+Toyota,Lain-lain,Starlet,1989,30.000-35.000 km,Bensin,Putih,Manual,4X2,Sedan,>1.000 - 1.500 cc,42000000
+Toyota,1.5,Kijang,1991,50.000-55.000 km,Bensin,Abu-abu,Manual,4X2,Minibus,>1.000 - 1.500 cc,31000000
+Proton,BLM,Saga,2009,80.000-85.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,42000000
+Toyota,G,Rush,2018,30.000-35.000 km,Bensin,Putih,Automatic,4X2,Minibus,>1.500 - 2.000 cc,230000000
+Toyota,G,Avanza,2008,80.000-85.000 km,Bensin,Hitam,Manual,4X2,MPV,>1.000 - 1.500 cc,87000000
+Hyundai,SG,i20,2011,65.000-70.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,89000000
+Mazda,2.0 SKYACTIV,Biante,2014,25.000-30.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,235000000
+Daihatsu,?,Terios,2019,0-5.000 km,Bensin,Lainnya,Manual,?,?,?,202300000
+Mitsubishi,Dakar,Pajero Sport,2016,30.000-35.000 km,Diesel,Hitam,Automatic Triptonic,?,?,?,402000000
+Datsun,?,Go,2019,0-5.000 km,Bensin,Lainnya,Manual,?,?,?,115000000
+Daihatsu,R 1.3 Sporty,Xenia,2017,40.000-45.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,170000000
+Suzuki,FD,Carry,2018,20.000-25.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),Pick-up,>1.500 - 2.000 cc,88000000
+Toyota,G,Agya,2015,20.000-25.000 km,Bensin,Putih,Automatic,Rear Wheel Drive (RWD),Compact & City Car,>1.000 - 1.500 cc,101000000
+Suzuki,Blind Van High,APV,2012,140.000-145.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Van,>1.500 - 2.000 cc,68000000
+Mitsubishi,Dakar 2.4,Pajero Sport,2016,55.000-60.000 km,Diesel,Abu-abu,Automatic Triptonic,4X4,Jeep,>2.000 - 3.000 cc,530000000
+Toyota,Lain-lain,Lain-lain,2004,10.000-15.000 km,Bensin,Biru,Manual,4X2,Sedan,>1.500 - 2.000 cc,55000000
+Honda,2.0 i-VTEC,CR-V,2009,120.000-125.000 km,Bensin,Abu-abu,Automatic,4X2,SUV,>1.500 - 2.000 cc,125000000
+Nissan,Lain-lain,Grand livina,2013,85.000-90.000 km,Bensin,Putih,Automatic,4X2,SUV,>1.500 - 2.000 cc,105800000
+Toyota,S,Avanza,2008,155.000-160.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),Bus,>1.500 - 2.000 cc,96000000
+Honda,RS,Jazz,2009,65.000-70.000 km,Bensin,Abu-abu,Automatic Triptonic,4X2,Minibus,>1.000 - 1.500 cc,122000000
+Honda,RS M/T,Jazz,2013,25.000-30.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,177000000
+Daihatsu,X Deluxe,Xenia,2016,55.000-60.000 km,Bensin,Silver,Manual,4X2,MPV,>1.000 - 1.500 cc,116000000
+Citroen,Lain-lain,BX,1986,200.000-205.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,9000000
+Suzuki,Lain-lain,Wagon R,2018,15.000-20.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Wagon,>1.000 - 1.500 cc,88000000
+Toyota,G,Innova,2012,80.000-85.000 km,Diesel,Hitam,Automatic,Rear Wheel Drive (RWD),MPV,>2.000 - 3.000 cc,187000000
+Mercedes-Benz,Lain-lain,SLK,1996,25.000-30.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Sedan,>1.500 - 2.000 cc,60000000
+Nissan,230 JM,Teana,2005,90.000-95.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,77000000
+Mitsubishi,Dakar,Pajero Sport,2018,15.000-20.000 km,Diesel,Hitam,Automatic Triptonic,4X2,Jeep,>2.000 - 3.000 cc,470000000
+Suzuki,Lain-lain,Karimun estillo,2010,150.000-155.000 km,Bensin,Silver,Manual,All Wheel Drive (AWD),Compact & City Car,<1.000 cc,61500000
+Toyota,Gli,Soluna,2000,125.000-130.000 km,Bensin,Merah,Automatic,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,37000000
+Nissan,Autech,Serena,2010,135.000-140.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,115000000
+Nissan,Lain-lain,Grand livina,2012,5.000-10.000 km,Bensin,Hitam,Manual,4X2,SUV,>1.000 - 1.500 cc,100000000
+Daihatsu,Li Family,Xenia,2006,70.000-75.000 km,Bensin,Biru,Manual,4X2,Minibus,<1.000 cc,69500000
+Toyota,G,Avanza,2008,85.000-90.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,90000000
+Mercedes-Benz,E300,E-Class,1987,100.000-105.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Classic Car,>2.000 - 3.000 cc,45000000
+Toyota,TRD Sportivo,Rush,2013,45.000-50.000 km,Bensin,Putih,Manual,4X2,SUV,>1.000 - 1.500 cc,175000000
+Daihatsu,F50 2.5L,Taft,<1986,>300.000 km,Diesel,Biru,Manual,4X4,Jeep,>2.000 - 3.000 cc,60000000
+Honda,RS CVT,Jazz,2013,50.000-55.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,177000000
+Daihatsu,TX,Terios,2011,70.000-75.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),SUV,>1.000 - 1.500 cc,138000000
+Suzuki,GL,Ertiga,2016,50.000-55.000 km,Bensin,Hitam,Manual,?,Minibus,>1.000 - 1.500 cc,150000000
+Honda,2.0,CR-V,2007,110.000-115.000 km,Bensin,Abu-abu,Automatic,All Wheel Drive (AWD),Compact & City Car,>1.500 - 2.000 cc,120000000
+Nissan,1.2L,March,2011,50.000-55.000 km,Bensin,Silver,Automatic,4X2,Minibus,>1.000 - 1.500 cc,78000000
+Toyota,G,Avanza,2015,35.000-40.000 km,Bensin,Putih,Manual,?,?,?,146000000
+Honda,2.0 i-VTEC,CR-V,2007,110.000-115.000 km,Bensin,Abu-abu,Automatic,All Wheel Drive (AWD),Compact & City Car,>1.500 - 2.000 cc,120000000
+Suzuki,SGX Arena,APV,2017,20.000-25.000 km,Diesel,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,162000000
+Nissan,1.2L,March,2011,115.000-120.000 km,Bensin,Putih,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,89000000
+Honda,1.5,Freed,2010,70.000-75.000 km,Bensin,Putih,Automatic,4X2,Minibus,>1.000 - 1.500 cc,145000000
+Jeep,Lain-lain,Lain-lain,2017,30.000-35.000 km,Bensin,Biru,Manual,4X4,Offroad,>3.000 cc,330000000
+Honda,VTEC,City,2000,195.000-200.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,53000000
+Nissan,Lain-lain,Grand livina,2016,30.000-35.000 km,Bensin,Putih,Manual,?,?,?,150000000
+Honda,E Special Editon,HR-V,2018,5.000-10.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,290000000
+Fiat,Lain-lain,125,<1986,105.000-110.000 km,Bensin,Kuning,Manual,?,Sedan,>1.000 - 1.500 cc,35000000
+Toyota,G,Avanza,2016,50.000-55.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,158000000
+Daihatsu,X,Xenia,2016,50.000-55.000 km,Bensin,Coklat,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,107000000
+Daihatsu,TX,Terios,2008,90.000-95.000 km,Bensin,Coklat,Manual,Front Wheel Drive (FWD),Jeep,>1.000 - 1.500 cc,109000000
+Daihatsu,TX,Terios,2013,40.000-45.000 km,Bensin,Hitam,Manual,?,Minibus,>1.000 - 1.500 cc,128000000
+Toyota,G Luxury,Innova,2013,50.000-55.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.500 - 2.000 cc,173000000
+Toyota,Veloz,Avanza,2016,15.000-20.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.000 - 1.500 cc,169000000
+Toyota,SGX,Kijang,1996,55.000-60.000 km,Bensin,Hijau,Manual,?,Minibus,>1.500 - 2.000 cc,55000000
+Toyota,J,Yaris,2012,45.000-50.000 km,Bensin,Abu-abu,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,125000000
+Nissan,Lain-lain,Grand livina,2013,50.000-55.000 km,Bensin,Marun,Automatic,4X2,MPV,>1.000 - 1.500 cc,135000000
+Volkswagen,TSI,Golf,2012,50.000-55.000 km,Bensin,Hitam,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,175000000
+Toyota,2.5 G,Alphard,2016,0-5.000 km,Bensin,Silver,Automatic Triptonic,All Wheel Drive (AWD),Minibus,>2.000 - 3.000 cc,850000000
+Mazda,2.5,CX-7,2012,70.000-75.000 km,Bensin,Hitam,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,205000000
+Toyota,L Hybrid,Camry,2013,55.000-60.000 km,Bensin,Silver,Automatic,4X2,Sedan,>2.000 - 3.000 cc,285000000
+Suzuki,Lain-lain,Carry Pick-up,2005,75.000-80.000 km,Bensin,Merah,Manual,4X2,Pick-up,>1.000 - 1.500 cc,37900000
+Toyota,Lain-lain,Starlet,1990,180.000-185.000 km,Bensin,Biru,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,28000000
+Honda,E,Brio,2014,60.000-65.000 km,Bensin,Abu-abu,Automatic,?,?,?,121000000
+Honda,?,Brio,2019,0-5.000 km,Bensin,Kuning,Manual,?,?,?,150500000
+Mitsubishi,GLX M/T,Xpander,2019,0-5.000 km,Bensin,Lainnya,Automatic,All Wheel Drive (AWD),MPV,>1.000 - 1.500 cc,214000000
+Chevrolet,Lain-lain,Captiva,2013,50.000-55.000 km,Diesel,Hitam,Automatic Triptonic,4X2,SUV,>1.500 - 2.000 cc,165000000
+Datsun,Panca T,Go+,2018,15.000-20.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,88500000
+Honda,2.0,CR-V,2010,100.000-105.000 km,Bensin,Coklat,Automatic,4X2,Hatchback,>1.500 - 2.000 cc,135000000
+Daihatsu,Extra X,Terios,2016,25.000-30.000 km,Bensin,Silver,Manual,?,?,?,150000000
+Mitsubishi,2.4,Grandis,2005,105.000-110.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,70000000
+Suzuki,GX,APV,2011,>300.000 km,Bensin,Silver,Manual,?,?,>1.000 - 1.500 cc,70000000
+Honda,Satya E,Brio,2017,10.000-15.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,116000000
+Toyota,G,Innova,2013,50.000-55.000 km,Diesel,Hitam,Automatic,4X2,MPV,>2.000 - 3.000 cc,220000000
+Suzuki,GL,APV,2013,260.000-265.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,78500000
+Toyota,TRD Sportivo,Agya,2016,70.000-75.000 km,Bensin,Hitam,Manual,?,Compact & City Car,>1.000 - 1.500 cc,105000000
+BMW,320i Luxury,Serie 3,2013,55.000-60.000 km,Bensin,Silver,Automatic,?,?,>1.500 - 2.000 cc,305000000
+Daihatsu,1.3,Xenia,2016,45.000-50.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,140000000
+Toyota,V Diesel,Innova,2017,40.000-45.000 km,Diesel,Putih,Automatic,?,?,>2.000 - 3.000 cc,315000000
+Daihatsu,Lain-lain,Gran max Pick-up,2015,30.000-35.000 km,Bensin,Putih,Manual,4X2,Pick-up,>1.000 - 1.500 cc,80000000
+Toyota,1.5,Kijang,1994,>300.000 km,Bensin,Hijau,Manual,4X2,Minibus,>1.000 - 1.500 cc,33000000
+Daihatsu,X,Ayla,2016,30.000-35.000 km,Bensin,Merah,Manual,All Wheel Drive (AWD),Compact & City Car,>1.000 - 1.500 cc,88000000
+Suzuki,GL,Ertiga,2014,90.000-95.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,113000000
+Nissan,HWS,Serena,2013,80.000-85.000 km,Bensin,Silver,Automatic,4X2,Wagon,>1.500 - 2.000 cc,175000000
+Mazda,Grand Touring,CX-5,2015,40.000-45.000 km,Bensin,Abu-abu,Automatic,4X2,MPV,>2.000 - 3.000 cc,310000000
+Suzuki,Lain-lain,Carry,2019,0-5.000 km,Bensin,Hitam,Manual,4X2,Pick-up,>1.000 - 1.500 cc,156000000
+Timor,1.5,DOHC,2001,20.000-25.000 km,Bensin,Kuning,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,28000000
+Nissan,XV,Evalia,2012,205.000-210.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,87000000
+Suzuki,GX,Katana,2003,55.000-60.000 km,Bensin,Merah,Manual,4X2,Jeep,<1.000 cc,50000000
+Honda,RS CVT,Jazz,2013,95.000-100.000 km,Bensin,Putih,Automatic Triptonic,4X2,Sedan,>1.000 - 1.500 cc,175000000
+Honda,RS,Jazz,2010,95.000-100.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,138000000
+Toyota,G,Avanza,2013,50.000-55.000 km,Bensin,Hitam,Manual,?,?,?,115000000
+Toyota,G,Avanza,2010,90.000-95.000 km,Bensin,Hitam,Manual,4X2,Bus,>1.000 - 1.500 cc,105000000
+Daihatsu,TX,Terios,2007,65.000-70.000 km,Bensin,Hitam,Automatic,?,?,?,115000000
+Daihatsu,F75 4X4 2.8,Rocky,1997,>300.000 km,Diesel,Merah,Manual,4X4,Jeep,>2.000 - 3.000 cc,98000000
+Honda,RS,Jazz,2016,25.000-30.000 km,Bensin,Oranye,Automatic,?,Hatchback,?,112000000
+Toyota,G,Avanza,2012,35.000-40.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,120000000
+Daihatsu,X Deluxe,Xenia,2013,85.000-90.000 km,Bensin,Putih,Manual,?,?,?,103500000
+Honda,E,Mobilio,2017,30.000-35.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,154000000
+Toyota,G,Avanza,2011,100.000-105.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,100000000
+Honda,E,Freed,2012,5.000-10.000 km,Bensin,Ungu,Automatic,4X2,Minibus,>1.000 - 1.500 cc,169000000
+Honda,E,BR-V,2017,30.000-35.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,170000000
+Mazda,?,2,2018,5.000-10.000 km,Bensin,Abu-abu,Automatic,?,?,?,248000000
+Toyota,ZA,Vellfire,2011,60.000-65.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Van,>2.000 - 3.000 cc,345000000
+Daihatsu,R 1.3 DLX,Xenia,2015,60.000-65.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,119500000
+KIA,M/T,Picanto,2017,10.000-15.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Compact & City Car,<1.000 cc,99900000
+Suzuki,GX MT ,Ignis,2018,5.000-10.000 km,Bensin,Silver,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,139500000
+Toyota,S,Yaris,2018,125.000-130.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,110000000
+Mazda,1.4,Vantrend,1993,65.000-70.000 km,Bensin,Biru,Manual,4X2,Pick-up,>1.000 - 1.500 cc,28000000
+Daihatsu,X,Terios,2016,55.000-60.000 km,Bensin,Putih,Manual,4X2,Jeep,>1.500 - 2.000 cc,157000000
+Mitsubishi,HD-X,Triton,2014,60.000-65.000 km,Diesel,Putih,Manual,4X4,Double Cabin,>2.000 - 3.000 cc,145000000
+Hino,Truck,Dutro,2014,85.000-90.000 km,Diesel,Lainnya,Manual,4X2,Truk,>3.000 cc,165000000
+Mitsubishi,GLS,Kuda,2001,150.000-155.000 km,Diesel,Silver,Manual,4X2,MPV,>2.000 - 3.000 cc,63000000
+Nissan,Lain-lain,X-Trail,2007,115.000-120.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Minibus,>2.000 - 3.000 cc,90000000
+Mitsubishi,Lain-lain,Lain-lain,2012,20.000-25.000 km,Diesel,Lainnya,Manual,Front Wheel Drive (FWD),Truk,>2.000 - 3.000 cc,450000000
+Isuzu,2.5,Panther,1997,5.000-10.000 km,Diesel,Merah,Manual,4X2,Minibus,>2.000 - 3.000 cc,55000000
+Daihatsu,1.3,Xenia,2017,55.000-60.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,160000000
+Honda,1.5,Freed,2009,75.000-80.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,125000000
+Geely,1.3,Panda Cross,2011,50.000-55.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,35000000
+Toyota,TRD G Grade M/T,Yaris,2010,70.000-75.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,110000000
+Honda,1.8L,Civic,2006,85.000-90.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,139000000
+Nissan,Lain-lain,Grand livina,2014,90.000-95.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),?,>1.000 - 1.500 cc,115000000
+Honda,1.8L,Civic,2015,70.000-75.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,230000000
+Mazda,GT,2,2014,65.000-70.000 km,Bensin,Silver,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,163000000
+Toyota,SRZ,Fortuner,2019,5.000-10.000 km,Bensin,Silver,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,417000000
+Mitsubishi,Lain-lain,Outlander,2014,55.000-60.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,219000000
+Mitsubishi,Exceed,Pajero Sport,2010,105.000-110.000 km,Diesel,Abu-abu,Automatic Triptonic,4X2,MPV,>2.000 - 3.000 cc,115000000
+Mitsubishi,Dakar,Pajero Sport,2016,45.000-50.000 km,Diesel,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,420000000
+Toyota,G,Agya,2015,5.000-10.000 km,Bensin,Silver,Manual,4X2,SUV,<1.000 cc,102000000
+Suzuki,Mega Carry,APV,2013,60.000-65.000 km,Bensin,Hitam,Manual,4X2,Pick-up,>1.000 - 1.500 cc,71500000
+Toyota,Spacio 1.5,Corolla,1994,175.000-180.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,40000000
+Toyota,G,Innova,2013,60.000-65.000 km,Diesel,Putih,Automatic,4X2,MPV,>2.000 - 3.000 cc,205000000
+Toyota,Venturer,Innova,2019,10.000-15.000 km,Bensin,Silver,Manual,?,?,>1.500 - 2.000 cc,378000000
+Toyota,G,Vios,2005,130.000-135.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,76000000
+Daihatsu,1.2 R,Sigra,2017,90.000-95.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,95000000
+Nissan,1.2L,March,2013,35.000-40.000 km,Bensin,Putih,Manual,4X2,Hatchback,?,83000000
+Honda,1.7,Stream,2005,20.000-25.000 km,Bensin,Silver,Automatic,4X2,MPV,>1.500 - 2.000 cc,110000000
+Toyota,G,Avanza,2013,80.000-85.000 km,Bensin,Putih,Automatic,4X2,Minibus,>1.000 - 1.500 cc,105000000
+Toyota,G,Vios,2003,130.000-135.000 km,Bensin,Emas,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,71500000
+Daihatsu,X,Ayla,2017,20.000-25.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Sedan,<1.000 cc,94500000
+Honda,E,Brio,2017,30.000-35.000 km,Bensin,Putih,Manual,4X2,Wagon,>1.000 - 1.500 cc,115000000
+Honda,S,Jazz,2018,15.000-20.000 km,Bensin,Abu-abu,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,195000000
+BMW,sDrive18i xLine,X1,2018,25.000-30.000 km,Bensin,Putih,Automatic,All Wheel Drive (AWD),Hatchback,>1.500 - 2.000 cc,645000000
+Toyota,Lain-lain,Voxy,2018,25.000-30.000 km,Bensin,Hitam,Automatic Triptonic,4X2,MPV,>2.000 - 3.000 cc,400000000
+Honda,S,Mobilio,2018,40.000-45.000 km,Bensin,Hitam,Manual,All Wheel Drive (AWD),Minibus,?,145000000
+Honda,1.8L Prestige,HR-V,2017,20.000-25.000 km,Bensin,Hitam,Automatic,4X2,SUV,>1.500 - 2.000 cc,299000000
+Honda,E,Mobilio,2014,45.000-50.000 km,Bensin,Hitam,Automatic,4X2,SUV,>1.000 - 1.500 cc,125000000
+Nissan,Lain-lain,Grand livina,2011,70.000-75.000 km,Bensin,Silver,Automatic,4X2,MPV,>1.000 - 1.500 cc,79000000
+Chevrolet,Lain-lain,Captiva,2010,100.000-105.000 km,Diesel,Hitam,Automatic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,135000000
+Toyota,Veloz,Avanza,2017,20.000-25.000 km,Bensin,Putih,Automatic,Rear Wheel Drive (RWD),SUV,>1.500 - 2.000 cc,192000000
+Suzuki,Lain-lain,Futura,2001,45.000-50.000 km,Bensin,Biru,Manual,4X2,Minibus,>1.000 - 1.500 cc,31000000
+KIA,Hatchback,Rio,2012,100.000-105.000 km,Bensin,Merah,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,81000000
+Honda,2.4L Vti,Accord,2009,100.000-105.000 km,Bensin,Hitam,Automatic,4X2,Sedan,>2.000 - 3.000 cc,130000000
+Suzuki,GX,Swift,2013,50.000-55.000 km,Bensin,Putih,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,142500000
+Suzuki,Lain-lain,Escudo,2004,115.000-120.000 km,Bensin,Silver,Automatic,4X2,Jeep,>1.500 - 2.000 cc,60000000
+Toyota,E,Avanza,2015,35.000-40.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,118000000
+Honda,S,Freed,2012,50.000-55.000 km,Bensin,Putih,Automatic,4X2,Minibus,>1.000 - 1.500 cc,130000000
+Nissan,Lain-lain,Livina,2010,115.000-120.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,86000000
+Suzuki,GX,Ertiga,2014,80.000-85.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,125000000
+Honda,GK,Jazz,2018,5.000-10.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,245000000
+Mitsubishi,GLXi,Lancer,1994,40.000-45.000 km,Bensin,Silver,Manual,4X2,Sedan,>1.000 - 1.500 cc,30000000
+Toyota,Lain-lain,Kijang,1995,>300.000 km,Bensin,Hijau,Manual,Front Wheel Drive (FWD),Minibus,>1.500 - 2.000 cc,45000000
+Toyota,1.5,Kijang,1996,190.000-195.000 km,Bensin,Biru,Manual,4X2,MPV,>1.500 - 2.000 cc,27000000
+Toyota,2.5 G,Alphard,2018,30.000-35.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Minibus,>2.000 - 3.000 cc,968000000
+Honda,2.0 i-VTEC,CR-V,2010,125.000-130.000 km,Bensin,Hitam,Automatic,4X2,SUV,>1.500 - 2.000 cc,143000000
+Daihatsu,M,Sirion,2013,40.000-45.000 km,Bensin,Ungu,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,82500000
+Nissan,Lain-lain,Grand livina,2014,90.000-95.000 km,Bensin,Hitam,Manual,?,MPV,>1.500 - 2.000 cc,122000000
+Nissan,Lain-lain,X-Trail,2004,45.000-50.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,80000000
+Mitsubishi,Super Exceed,Kuda,2001,>300.000 km,Diesel,Emas,Manual,Rear Wheel Drive (RWD),Minibus,>2.000 - 3.000 cc,69000000
+Toyota,G,Innova,2012,115.000-120.000 km,Diesel,Putih,Automatic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,209500000
+Hyundai,GL,Avega,2008,90.000-95.000 km,Bensin,Coklat,Manual,4X2,Sedan,>1.000 - 1.500 cc,60000000
+Toyota,G,Avanza,2014,105.000-110.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,113000000
+Daihatsu,TS,Terios,2014,70.000-75.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,125000000
+Honda,RS,Jazz,2013,100.000-105.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,153000000
+Daihatsu,F50 2.5L,Taft,<1986,50.000-55.000 km,Diesel,Oranye,Manual,4X4,Jeep,>2.000 - 3.000 cc,69000000
+Isuzu,Pick Up 2.5,Panther,1996,0-5.000 km,Diesel,Biru,Manual,4X2,Pick-up,>3.000 cc,49000000
+Nissan,Lain-lain,Grand livina,2012,60.000-65.000 km,Bensin,Silver,Automatic Triptonic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,99000000
+Mazda,Lain-lain,Familia,1999,170.000-175.000 km,Bensin,Silver,Manual,4X2,Sedan,>1.500 - 2.000 cc,35000000
+Daihatsu,R,Terios,2016,80.000-85.000 km,Bensin,Abu-abu,Manual,Rear Wheel Drive (RWD),Jeep,>1.000 - 1.500 cc,168500000
+Proton,Lain-lain,Savvy,2010,90.000-95.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,52000000
+Honda,E Prestige,Mobilio,2014,30.000-35.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,145000000
+Daihatsu,TX,Terios,2010,10.000-15.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.500 - 2.000 cc,125000000
+Daihatsu,Lain-lain,Gran max Pick-up,2016,20.000-25.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),Pick-up,>1.000 - 1.500 cc,95000000
+Honda,RS,Mobilio,2015,35.000-40.000 km,Bensin,Hitam,Manual,?,?,>1.000 - 1.500 cc,155000000
+Toyota,Veloz,Avanza,2016,30.000-35.000 km,Bensin,Silver,Automatic,4X2,Minibus,>1.000 - 1.500 cc,166900000
+Wuling,?,Confero S,2019,0-5.000 km,Bensin,Hitam,Manual,?,?,?,150800000
+Toyota,G,Calya,2018,10.000-15.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,110000000
+Daihatsu,Xi Deluxe,Xenia,2010,60.000-65.000 km,Bensin,Abu-abu,Manual,4X2,Minibus,>1.000 - 1.500 cc,85000000
+Toyota,E,Innova,2013,75.000-80.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),?,?,149000000
+Daihatsu,1.2 R,Sigra,2019,25.000-30.000 km,Bensin,Putih,Manual,?,Minibus,>1.000 - 1.500 cc,132000000
+Toyota,V,Innova,2018,5.000-10.000 km,Diesel,Hitam,Automatic,?,MPV,>2.000 - 3.000 cc,125000000
+Toyota,S,Rush,2008,95.000-100.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),SUV,>1.000 - 1.500 cc,110000000
+Toyota,VRZ,Fortuner,2017,35.000-40.000 km,Diesel,Putih,Automatic,4X2,Jeep,>1.500 - 2.000 cc,405000000
+Honda,1.6,Civic,2002,190.000-195.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,65000000
+Toyota,G,Rush,2009,100.000-105.000 km,Bensin,Silver,Manual,?,Minibus,>1.000 - 1.500 cc,120000000
+Toyota,TRD Sportivo Ultimo,Rush,2016,30.000-35.000 km,Bensin,Hitam,Manual,4X2,Jeep,>1.500 - 2.000 cc,135000000
+Honda,E,Brio,2018,25.000-30.000 km,Bensin,Hitam,Manual,4X2,Hatchback,>1.000 - 1.500 cc,124000000
+Nissan,Kingsroad,Terrano,2000,245.000-250.000 km,Bensin,Biru,Manual,4X2,Jeep,>2.000 - 3.000 cc,65000000
+Toyota,Lain-lain,Vios,2005,>300.000 km,Bensin,Silver,Manual,?,Sedan,>1.500 - 2.000 cc,47000000
+Mazda,R,2,2010,75.000-80.000 km,Bensin,Hijau,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,89000000
+Daihatsu,TX Adventure,Terios,2013,55.000-60.000 km,Bensin,Putih,Manual,?,?,?,135000000
+Daihatsu,Lain-lain,Gran max,2018,15.000-20.000 km,Bensin,Hitam,Manual,4X2,Minibus,?,124000000
+Toyota,G,Altis,2001,95.000-100.000 km,Bensin,Silver,Manual,4X2,Sedan,>1.500 - 2.000 cc,60000000
+Suzuki,GX,Katana,2000,60.000-65.000 km,Bensin,Hitam,Manual,?,?,?,55000000
+Toyota,G,Innova,2013,100.000-105.000 km,Bensin,Silver,Automatic,4X2,MPV,>1.500 - 2.000 cc,137000000
+Isuzu,Smart,Panther,2010,110.000-115.000 km,Diesel,Silver,Manual,4X2,Minibus,>2.000 - 3.000 cc,113000000
+Toyota,G TRD,Fortuner,2015,50.000-55.000 km,Diesel,Putih,Automatic,4X2,Jeep,>2.000 - 3.000 cc,295000000
+Chevrolet,LTZ,Spin,2013,70.000-75.000 km,Diesel,Coklat,Manual,?,?,?,95000000
+Mitsubishi,ULTIMATE A/T,Xpander,2018,5.000-10.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.500 - 2.000 cc,240000000
+KIA,M/T,Picanto,2013,60.000-65.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,79000000
+Suzuki,GX,Ertiga,2019,0-5.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,186500000
+Volkswagen,TSI,Tiguan,2013,60.000-65.000 km,Bensin,Silver,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,189000000
+Ford,Base,Ranger,2014,95.000-100.000 km,Diesel,Putih,Manual,4X4,Double Cabin,>2.000 - 3.000 cc,170000000
+Toyota,V Diesel,Innova,2008,135.000-140.000 km,Diesel,Hitam,Manual,?,?,>2.000 - 3.000 cc,173000000
+KIA,M/T,Picanto,2007,100.000-105.000 km,Bensin,Hitam,Manual,All Wheel Drive (AWD),Compact & City Car,>1.000 - 1.500 cc,62000000
+Honda,RS,Jazz,2008,90.000-95.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,115000000
+Mercedes-Benz,C240,C-Class,2001,140.000-145.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),Sedan,>2.000 - 3.000 cc,108000000
+Honda,2.4,CR-V,2010,70.000-75.000 km,Bensin,Hitam,Automatic,4X2,SUV,>2.000 - 3.000 cc,145000000
+Toyota,Lain-lain,Lain-lain,2000,60.000-65.000 km,Diesel,Merah,Manual,Rear Wheel Drive (RWD),Truk,>2.000 - 3.000 cc,55000000
+Honda,S,Brio,2013,45.000-50.000 km,Bensin,Abu-abu,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,103000000
+Honda,E,Mobilio,2015,50.000-55.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,132500000
+Suzuki,GX,Ertiga,2015,70.000-75.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,130000000
+Mitsubishi,?,Xpander,2019,0-5.000 km,Bensin,Lainnya,Manual,?,?,?,246400000
+Daihatsu,D,Sirion,2015,80.000-85.000 km,Bensin,Silver,Manual,4X2,Hatchback,>1.000 - 1.500 cc,110000000
+Daihatsu,?,Sigra,2019,0-5.000 km,Bensin,Lainnya,Manual,?,?,?,99999000
+Daihatsu,Xi Deluxe,Xenia,2011,110.000-115.000 km,Bensin,Abu-abu,Automatic,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,82000000
+Daihatsu,TX,Terios,2010,85.000-90.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),Jeep,>1.000 - 1.500 cc,99999000
+Toyota,G,Fortuner,2010,100.000-105.000 km,Diesel,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,205000000
+Nissan,Lain-lain,Grand livina,2014,95.000-100.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,102000000
+Hyundai,GX,Avega,2010,55.000-60.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,49000000
+Nissan,Lain-lain,Grand livina,2009,85.000-90.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,79000000
+Daihatsu,X Elegant,Ayla,2015,15.000-20.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Hatchback,<1.000 cc,96500000
+Nissan,Lain-lain,Grand livina,2010,90.000-95.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,79000000
+Suzuki,Lain-lain,Escudo,2003,110.000-115.000 km,Bensin,Lainnya,Manual,4X2,Sedan,>1.500 - 2.000 cc,89500000
+Honda,i-DSI,Jazz,2005,105.000-110.000 km,Bensin,Silver,Automatic Triptonic,All Wheel Drive (AWD),Compact & City Car,>1.000 - 1.500 cc,82000000
+Toyota,G,Avanza,2016,70.000-75.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,139500000
+Mitsubishi,2.5L Dakar,Pajero Sport,2015,85.000-90.000 km,Diesel,Putih,Automatic,4X2,Minibus,>2.000 - 3.000 cc,323000000
+Honda,RS,Mobilio,2016,40.000-45.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,159000000
+Daihatsu,M Sporty,Ayla,2014,65.000-70.000 km,Bensin,Putih,Manual,?,?,?,87000000
+Toyota,G,Innova,2005,90.000-95.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),MPV,>1.500 - 2.000 cc,94000000
+BMW,E89,Z4,2004,40.000-45.000 km,Bensin,Silver,Automatic Triptonic,Front Wheel Drive (FWD),Sports & Super Car,>2.000 - 3.000 cc,445000000
+Honda,E,Mobilio,2015,50.000-55.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,132500000
+KIA,EX,Sportage,2011,25.000-30.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,165000000
+Toyota,"2,5 V",Camry,2012,75.000-80.000 km,Bensin,Abu-abu,Automatic Triptonic,4X2,Sedan,>2.000 - 3.000 cc,210000000
+Mercedes-Benz,A250,A-Class,2013,30.000-35.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>2.000 - 3.000 cc,395000000
+Datsun,Panca T Opt,Go+,2016,30.000-35.000 km,Bensin,Silver,Manual,4X4,Sedan,>1.000 - 1.500 cc,76000000
+Honda,2.0,CR-V,2004,110.000-115.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Jeep,>1.500 - 2.000 cc,75000000
+Toyota,G,Vios,2008,80.000-85.000 km,Bensin,Silver,Manual,?,Sedan,>1.000 - 1.500 cc,82000000
+Toyota,S,Rush,2010,85.000-90.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Jeep,>1.000 - 1.500 cc,109000000
+Honda,VTi-L,Accord,2000,210.000-215.000 km,Bensin,Abu-abu,Automatic,4X2,Sedan,>2.000 - 3.000 cc,39500000
+Toyota,Veloz,Avanza,2015,75.000-80.000 km,Bensin,Putih,Automatic,?,Compact & City Car,>1.000 - 1.500 cc,158000000
+Honda,i-DSI,Jazz,2007,90.000-95.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,77000000
+Toyota,G,Rush,2012,115.000-120.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.500 - 2.000 cc,150000000
+Daihatsu,X 1.3 Plus,Xenia,2014,75.000-80.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,107000000
+Toyota,G,Innova,2010,100.000-105.000 km,Diesel,Abu-abu,Manual,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,177000000
+Daihatsu,Lain-lain,Gran max,2009,100.000-105.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,72000000
+Toyota,G,Avanza,2011,80.000-85.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,98000000
+Suzuki,Mega Carry,APV,2012,90.000-95.000 km,Bensin,Putih,Manual,4X2,Pick-up,>1.000 - 1.500 cc,85000000
+Daihatsu,Lain-lain,Taruna,2001,40.000-45.000 km,Bensin,Emas,Manual,4X2,MPV,>1.500 - 2.000 cc,71000000
+Toyota,G,Avanza,2013,75.000-80.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,125000000
+Mitsubishi,ULTIMATE A/T,Xpander,2017,10.000-15.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,225000000
+Mazda,2.0 SKYACTIV,Biante,2014,60.000-65.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,195000000
+BMW,?,X1,2015,55.000-60.000 km,Bensin,Putih,Automatic,?,?,?,357000000
+Toyota,G,Fortuner,2011,145.000-150.000 km,Diesel,Putih,Automatic,Rear Wheel Drive (RWD),SUV,>2.000 - 3.000 cc,214000000
+Datsun,Lain-lain,Go+,2017,10.000-15.000 km,Bensin,Putih,Manual,4X2,Wagon,>1.000 - 1.500 cc,93000001
+Mitsubishi,HD-X,Strada Triton,2013,55.000-60.000 km,Diesel,Putih,Manual,4X4,Double Cabin,>2.000 - 3.000 cc,125000000
+Nissan,Lain-lain,Grand livina,2012,115.000-120.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,95000000
+Honda,RS,Jazz,2016,25.000-30.000 km,Bensin,Putih,Automatic,?,?,>1.000 - 1.500 cc,220000000
+Honda,2.0 i-VTEC,CR-V,2010,110.000-115.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,150000000
+Honda,Prestige 2.4,Odyssey,2010,100.000-105.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,185000000
+Honda,S,Freed,2010,65.000-70.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,160000000
+Honda,Satya E,Brio,2014,45.000-50.000 km,Bensin,Putih,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,120000000
+Honda,RS 1.2,Brio,2018,5.000-10.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,150000000
+Toyota,Veloz,Avanza,2014,40.000-45.000 km,Bensin,Putih,Automatic,?,?,?,148000000
+Honda,S,Jazz,2011,35.000-40.000 km,Bensin,Putih,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,135500000
+Toyota,G,Etios,2015,25.000-30.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,108000000
+Toyota,E,Avanza,2014,100.000-105.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,116000000
+Toyota,TRD Sportivo,Agya,2015,65.000-70.000 km,Bensin,Putih,Automatic,4X2,Compact & City Car,<1.000 cc,98500000
+Daihatsu,Li Deluxe,Xenia,2009,100.000-105.000 km,Bensin,Abu-abu,Manual,Rear Wheel Drive (RWD),MPV,<1.000 cc,82000000
+Honda,i-DSI,City,2004,215.000-220.000 km,Bensin,Marun,Automatic Triptonic,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,68000000
+Toyota,Veloz,Avanza,2019,5.000-10.000 km,Bensin,Hitam,Automatic,?,?,>1.000 - 1.500 cc,225000000
+Suzuki,Lain-lain,Forsa,1986,5.000-10.000 km,Bensin,Biru,Manual,?,Sedan,<1.000 cc,20000000
+Toyota,TRD,Fortuner,2017,45.000-50.000 km,Diesel,Hitam,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,428000000
+Daihatsu,Lain-lain,Gran max,2016,55.000-60.000 km,Bensin,Putih,Manual,?,?,?,89900000
+Toyota,TRD Sportivo,Agya,2015,120.000-125.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Convertible,<1.000 cc,94000000
+Toyota,?,Calya,2019,0-5.000 km,Bensin,Coklat,Automatic,?,?,?,130000000
+Mitsubishi,2.5L Dakar,Pajero Sport,2019,0-5.000 km,Diesel,Hitam,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,485000000
+Jeep,Lain-lain,Rubicon,2007,70.000-75.000 km,Bensin,Silver,Automatic,4X4,Jeep,>3.000 cc,575000000
+Toyota,Q,Sienta,2016,50.000-55.000 km,Bensin,Oranye,Automatic,?,?,?,218000000
+Toyota,G,Innova,2010,110.000-115.000 km,Bensin,Silver,Automatic Triptonic,Rear Wheel Drive (RWD),MPV,>1.500 - 2.000 cc,135000000
+Daihatsu,X,Ayla,2017,20.000-25.000 km,Bensin,Merah,Automatic,All Wheel Drive (AWD),Hatchback,<1.000 cc,105000000
+Toyota,G 1.8,Corolla Altis,2002,210.000-215.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,71400000
+Daihatsu,R 1.3 Sporty,Xenia,2016,50.000-55.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,144000000
+Daihatsu,TX Adventure,Terios,2008,95.000-100.000 km,Bensin,Silver,Automatic,4X2,MPV,>1.000 - 1.500 cc,103000000
+KIA,Lain-lain,Sportage,2012,100.000-105.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,134000000
+Mitsubishi,1.5,Colt,<1986,45.000-50.000 km,Bensin,Biru,Manual,Rear Wheel Drive (RWD),Pick-up,>1.000 - 1.500 cc,20000000
+Toyota,G,Avanza,2010,25.000-30.000 km,Bensin,Abu-abu,Manual,4X2,Minibus,>1.000 - 1.500 cc,99000000
+Toyota,V,Sienta,2016,70.000-75.000 km,Bensin,Oranye,Manual,?,?,?,186000000
+Toyota,G,Agya,2015,55.000-60.000 km,Bensin,Putih,Automatic,4X2,Compact & City Car,<1.000 cc,88000000
+Daihatsu,X 1.3 Plus,Xenia,2017,10.000-15.000 km,Bensin,Silver,Manual,All Wheel Drive (AWD),MPV,>1.000 - 1.500 cc,145000000
+Daihatsu,Lain-lain,Gran max Pick-up,2013,55.000-60.000 km,Bensin,Biru,Manual,4X2,Pick-up,>1.000 - 1.500 cc,65000000
+Toyota,Lain-lain,Land Cruiser,<1986,>300.000 km,Diesel,Hijau,Manual,4X4,Jeep,>2.000 - 3.000 cc,175000000
+Honda,S,Mobilio,2016,60.000-65.000 km,Bensin,Silver,Manual,4X2,MPV,>1.000 - 1.500 cc,127500000
+Toyota,S,Rush,2014,105.000-110.000 km,Bensin,Putih,Automatic,?,?,?,158000000
+Honda,2.0,Stream,2004,155.000-160.000 km,Bensin,Silver,Automatic Triptonic,4X2,?,>1.500 - 2.000 cc,80000000
+Honda,Lain-lain,Mobilio,2019,0-5.000 km,Bensin,Putih,Manual,?,?,?,162000000
+Toyota,VRZ,Fortuner,2017,55.000-60.000 km,Bensin,Hitam,Automatic,?,?,?,445000000
+Toyota,G,Innova,2011,65.000-70.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,150000000
+Toyota,S,Rush,2013,45.000-50.000 km,Bensin,Putih,Manual,4X2,MPV,>1.000 - 1.500 cc,145000000
+Isuzu,Lain-lain,Colt 77 PS,1997,60.000-65.000 km,Diesel,Putih,Manual,Rear Wheel Drive (RWD),Pick-up,>2.000 - 3.000 cc,55000000
+Toyota,G TRD,Fortuner,2012,115.000-120.000 km,Diesel,Hitam,Manual,4X2,SUV,>2.000 - 3.000 cc,230000000
+Datsun,Panca T Style,Go+,2016,20.000-25.000 km,Bensin,Emas,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,85000000
+Toyota,Lain-lain,Corolla,1997,130.000-135.000 km,Bensin,Putih,Manual,4X2,Sedan,>1.000 - 1.500 cc,30000000
+BMW,330i,Serie 3,2004,75.000-80.000 km,Bensin,Hitam,Automatic,Rear Wheel Drive (RWD),Sedan,>2.000 - 3.000 cc,245000000
+Toyota,G,Innova,2004,155.000-160.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Minibus,>1.500 - 2.000 cc,92000000
+Suzuki,Estilo,Karimun,2012,55.000-60.000 km,Bensin,Coklat,Manual,4X2,Hatchback,<1.000 cc,80000000
+BMW,320i Sport,Serie 3,2014,45.000-50.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,370000000
+Suzuki,4 AT,Jimny,2019,0-5.000 km,Diesel,Hijau,Automatic,All Wheel Drive (AWD),Jeep,>1.000 - 1.500 cc,465000000
+Toyota,G Luxury,Innova,2005,95.000-100.000 km,Bensin,Hijau,Manual,4X2,MPV,>1.500 - 2.000 cc,98000000
+Toyota,G,Avanza,2008,105.000-110.000 km,Bensin,Hitam,Manual,All Wheel Drive (AWD),MPV,>1.000 - 1.500 cc,93000000
+Volvo,Lain-lain,960,2000,120.000-125.000 km,Bensin,Hitam,Automatic,Rear Wheel Drive (RWD),Sedan,>2.000 - 3.000 cc,34000000
+Toyota,G,Yaris,2016,25.000-30.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,143000000
+Honda,Lain-lain,Lain-lain,1986,120.000-125.000 km,Bensin,Merah,Manual,4X2,Sedan,>1.500 - 2.000 cc,125000000
+Toyota,"2,5 V",Camry,2014,45.000-50.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,248000000
+Daihatsu,1.2 R,Sigra,2019,0-5.000 km,Bensin,Lainnya,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,108000000
+Toyota,G,Innova,2012,95.000-100.000 km,Bensin,Abu-abu,Automatic,4X2,MPV,>2.000 - 3.000 cc,165000000
+Mercedes-Benz,CLA200,CLA-Class,2015,25.000-30.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,535000000
+Toyota,E,Avanza,2014,95.000-100.000 km,Bensin,Silver,Manual,?,MPV,>1.000 - 1.500 cc,106000000
+Mitsubishi,Exceed,Pajero Sport,2012,90.000-95.000 km,Diesel,Abu-abu,Automatic Triptonic,Front Wheel Drive (FWD),Jeep,>2.000 - 3.000 cc,229000000
+Toyota,LGX,Kijang,2003,35.000-40.000 km,Bensin,Abu-abu,Manual,?,Classic Car,>1.500 - 2.000 cc,80000000
+Suzuki,GX,Ertiga,2015,115.000-120.000 km,Bensin,Abu-abu,Manual,?,?,?,140000000
+Mitsubishi,Exceed,Pajero Sport,2009,70.000-75.000 km,Diesel,Abu-abu,Automatic Triptonic,Front Wheel Drive (FWD),Jeep,>2.000 - 3.000 cc,216000000
+Mitsubishi,Lain-lain,Outlander,2013,80.000-85.000 km,Bensin,Merah,Automatic Triptonic,Front Wheel Drive (FWD),Jeep,>1.500 - 2.000 cc,169000000
+Toyota,G,Innova,2006,>300.000 km,Bensin,Biru,Manual,?,Bus,?,98000000
+Suzuki,GL,Ertiga,2012,225.000-230.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,110000000
+Honda,E,Brio,2013,40.000-45.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,97000000
+Toyota,G,Innova,2011,80.000-85.000 km,Bensin,Silver,Manual,?,?,?,129500000
+Mitsubishi,Strada,L200,2007,65.000-70.000 km,Diesel,Merah,Manual,4X4,Double Cabin,>1.500 - 2.000 cc,110000000
+Suzuki,GX,Wagon R,2015,30.000-35.000 km,Bensin,Merah,Automatic,4X2,Wagon,>1.000 - 1.500 cc,85000000
+Chevrolet,Lain-lain,Captiva,2016,15.000-20.000 km,Diesel,Silver,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,290000000
+Datsun,Panca T Active,Go,2018,25.000-30.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,115000000
+Ford,Sport,Fiesta,2013,85.000-90.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,122000000
+Honda,Satya E,Brio,2018,35.000-40.000 km,Bensin,Merah,Manual,?,Compact & City Car,>1.000 - 1.500 cc,125000000
+Daihatsu,?,Terios,2019,0-5.000 km,Bensin,Abu-abu,Manual,?,?,?,190300000
+Toyota,TRD Sportivo,Rush,2015,25.000-30.000 km,Bensin,Hitam,Automatic,Rear Wheel Drive (RWD),SUV,>1.000 - 1.500 cc,163000000
+Honda,?,Mobilio,2019,0-5.000 km,Bensin,Putih,Manual,?,?,?,204000000
+Daihatsu,Li Deluxe,Xenia,2011,25.000-30.000 km,Bensin,Silver,Manual,4X2,Minibus,<1.000 cc,71000000
+Chery,Lain-lain,QQ,2006,70.000-75.000 km,Bensin,Merah,Manual,All Wheel Drive (AWD),Minibus,>1.000 - 1.500 cc,40000000
+Toyota,Lain-lain,Corolla,1996,85.000-90.000 km,Bensin,Lainnya,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,48000000
+Honda,Turbo 1.5,Civic,2018,10.000-15.000 km,Bensin,Putih,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,395000000
+Toyota,G,Altis,2002,200.000-205.000 km,Bensin,Silver,Manual,?,Sedan,>1.500 - 2.000 cc,80000000
+Honda,i-DSI,Jazz,2006,100.000-105.000 km,Bensin,Abu-abu,Automatic Triptonic,4X2,Compact & City Car,>1.000 - 1.500 cc,84000000
+Toyota,E,Avanza,2017,20.000-25.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,144000000
+Honda,RS CVT,Jazz,2016,20.000-25.000 km,Bensin,Silver,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,192000000
+Mitsubishi,Dakar 2.4,Pajero Sport,2017,40.000-45.000 km,Diesel,Hitam,Automatic,?,?,>2.000 - 3.000 cc,445000000
+Toyota,V,Innova,2012,95.000-100.000 km,Bensin,Putih,Automatic,?,?,?,155000000
+Honda,Lain-lain,Ferio,1996,135.000-140.000 km,Bensin,Hijau,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,43000000
+Toyota,G,Calya,2016,45.000-50.000 km,Bensin,Putih,Automatic,?,?,?,112000000
+Toyota,TRD Sportivo,Agya,2015,70.000-75.000 km,Bensin,Putih,Manual,?,?,?,90000000
+Honda,S,Freed,2013,110.000-115.000 km,Bensin,Putih,Automatic,?,?,?,143000000
+Honda,Satya E,Brio,2015,25.000-30.000 km,Bensin,Hitam,Automatic,4X2,Jeep,>1.000 - 1.500 cc,130000000
+Honda,Lain-lain,Mobilio,2018,0-5.000 km,Bensin,Putih,Manual,4X4,MPV,>2.000 - 3.000 cc,155000000
+Mazda,Lain-lain,2,2013,60.000-65.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.500 - 2.000 cc,126500000
+Suzuki,GL,Ertiga,2016,100.000-105.000 km,Bensin,Hitam,Manual,?,MPV,?,122000000
+Honda,S,Jazz,2013,90.000-95.000 km,Bensin,Abu-abu,Automatic Triptonic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,135000000
+Honda,2.4 i-VTEC,CR-V,2011,120.000-125.000 km,Bensin,Putih,Automatic,4X2,SUV,>2.000 - 3.000 cc,192500000
+Mitsubishi,ULTIMATE A/T,Xpander,2017,10.000-15.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),MPV,>1.500 - 2.000 cc,225000000
+Toyota,TRD Sportivo,Agya,2018,15.000-20.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,120000000
+Mitsubishi,3.9,Colt,1991,>300.000 km,Diesel,Putih,Manual,4X4,Truk,>3.000 cc,77000000
+Nissan,Lain-lain,X-Trail,2009,155.000-160.000 km,Bensin,Silver,Automatic,4X2,SUV,>1.500 - 2.000 cc,114999999
+Toyota,Lain-lain,Etios Valco,2013,55.000-60.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,99000000
+Toyota,Veloz,Avanza,2015,85.000-90.000 km,Bensin,Silver,Automatic,?,?,?,136000000
+Toyota,G,Avanza,2008,125.000-130.000 km,Bensin,Hitam,Manual,4X2,MPV,>1.000 - 1.500 cc,88000000
+Honda,2.4 i-VTEC,CR-V,2013,40.000-45.000 km,Bensin,Putih,Automatic,4X2,SUV,>2.000 - 3.000 cc,230000000
+Daihatsu,Lain-lain,Lain-lain,2013,100.000-105.000 km,Bensin,Lainnya,Manual,4X2,Classic Car,<1.000 cc,85000000
+Nissan,Lain-lain,Grand livina,2012,100.000-105.000 km,Bensin,Silver,Manual,?,?,?,90000000
+Daihatsu,X,Ayla,2014,65.000-70.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,85500000
+Toyota,G,Etios,2013,0-5.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,97500000
+Toyota,G,Avanza,2014,85.000-90.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,125000000
+Suzuki,Lain-lain,Escudo,1999,225.000-230.000 km,Bensin,Silver,Manual,4X2,Jeep,>1.000 - 1.500 cc,78500000
+Suzuki,GX,Ertiga,2015,45.000-50.000 km,Bensin,Abu-abu,Manual,?,?,?,127000000
+Honda,Limited Edition,Jazz,2011,25.000-30.000 km,Bensin,Merah,Automatic,Rear Wheel Drive (RWD),Compact & City Car,>1.000 - 1.500 cc,139000000
+BMW,?,X1,2015,55.000-60.000 km,Bensin,Putih,Automatic,?,?,?,357000000
+Hyundai,Royale Next Generion,H-1,2018,15.000-20.000 km,Diesel,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,350000000
+Toyota,G,Agya,2017,20.000-25.000 km,Bensin,Putih,Manual,4X2,?,?,107000000
+Daihatsu,Xi Sporty,Xenia,2011,80.000-85.000 km,Bensin,Hitam,Automatic,4X2,MPV,>1.000 - 1.500 cc,85000000
+Daihatsu,Lain-lain,Espass,2002,135.000-140.000 km,Bensin,Silver,Manual,?,Minibus,>1.000 - 1.500 cc,24000000
+Toyota,G,Avanza,2011,25.000-30.000 km,Bensin,Abu-abu,Manual,4X2,Minibus,>1.000 - 1.500 cc,102000000
+Honda,i-DSI,City,2006,85.000-90.000 km,Bensin,Abu-abu,Automatic Triptonic,4X2,Sedan,>1.000 - 1.500 cc,75000000
+Toyota,Q,Sienta,2017,45.000-50.000 km,Bensin,Oranye,Automatic,?,?,?,189000000
+Toyota,G,Avanza,2009,70.000-75.000 km,Bensin,Merah,Manual,4X2,MPV,>1.000 - 1.500 cc,90000000
+Nissan,Lain-lain,X-Trail,2009,155.000-160.000 km,Bensin,Silver,Automatic,4X2,SUV,>1.500 - 2.000 cc,114900000
+Honda,E Prestige,BR-V,2019,0-5.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,240000000
+Hyundai,SG,Avega,2008,110.000-115.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,48000000
+Toyota,G,Etios,2013,55.000-60.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,99000000
+Honda,i-DSI,City,2003,140.000-145.000 km,Bensin,Biru,Automatic Triptonic,4X2,Sedan,>1.000 - 1.500 cc,68000000
+Daihatsu,Lain-lain,Classy,1995,15.000-20.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,21000000
+Daihatsu,Lain-lain,Gran max Pick-up,2017,20.000-25.000 km,Bensin,Hitam,Manual,4X2,Pick-up,>1.000 - 1.500 cc,92000000
+Mercedes-Benz,C240,C-Class,2004,55.000-60.000 km,Bensin,Abu-abu,Automatic,4X2,Sedan,>2.000 - 3.000 cc,105000000
+Mazda,2.0,Biante,2012,90.000-95.000 km,Bensin,Silver,Automatic,?,?,?,147000000
+Nissan,Lain-lain,Grand livina,2015,60.000-65.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,132000000
+Suzuki,1.5,Baleno,2002,220.000-225.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,53000000
+Daihatsu,Lain-lain,Gran max,2014,105.000-110.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Van,>1.000 - 1.500 cc,73000000
+Toyota,"2,5 V",Camry,2016,35.000-40.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,375000000
+Nissan,Lain-lain,Grand livina,2013,70.000-75.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,99000000
+Suzuki,?,Carry Pick-up,2019,0-5.000 km,Bensin,Lainnya,Manual,?,?,?,138600000
+Honda,2.4,CR-V,2014,55.000-60.000 km,Bensin,Putih,Automatic,?,?,?,217000000
+Toyota,G,Avanza,2006,100.000-105.000 km,Bensin,Kuning,Manual,4X2,MPV,>1.000 - 1.500 cc,81500000
+Toyota,G,Calya,2018,25.000-30.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,118000000
+Toyota,G,Innova,2018,30.000-35.000 km,Diesel,Abu-abu,Automatic,Rear Wheel Drive (RWD),MPV,>2.000 - 3.000 cc,305000000
+Nissan,Lain-lain,Grand livina,2009,100.000-105.000 km,Bensin,Abu-abu,Automatic,4X2,MPV,>1.000 - 1.500 cc,88000000
+Toyota,V,Innova,2015,220.000-225.000 km,Bensin,Hijau,Automatic,?,Minibus,>1.500 - 2.000 cc,125000000
+Toyota,G,Camry,2011,105.000-110.000 km,Bensin,Hitam,Automatic,?,?,?,131000000
+Nissan,Lain-lain,X-Trail,2009,155.000-160.000 km,Bensin,Silver,Automatic,4X2,SUV,>1.500 - 2.000 cc,115000100
+Honda,Lain-lain,Freed,2012,80.000-85.000 km,Bensin,Putih,Automatic,?,?,?,160000000
+Mitsubishi,HD-X,Strada Triton,2014,125.000-130.000 km,Diesel,Putih,Manual,4X4,Double Cabin,>2.000 - 3.000 cc,13000000
+Toyota,G Luxury,Innova,2015,55.000-60.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.500 - 2.000 cc,189000000
+Mitsubishi,2.5L Dakar,Pajero Sport,2011,100.000-105.000 km,Diesel,Silver,Automatic Triptonic,4X4,SUV,>2.000 - 3.000 cc,260000000
+Honda,2.0,CR-V,2013,85.000-90.000 km,Bensin,Hitam,Automatic,?,?,?,191000000
+Nissan,Lain-lain,Grand livina,2011,60.000-65.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,102000000
+Suzuki,GL,Ertiga,2016,45.000-50.000 km,Bensin,Ungu,Manual,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,151000000
+Honda,E,Mobilio,2018,15.000-20.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,193000000
+Mitsubishi,ULTIMATE A/T,Xpander,2019,0-5.000 km,Bensin,Merah,Manual,?,MPV,?,221800000
+Honda,i-DSI,City,2008,70.000-75.000 km,Bensin,Abu-abu,Automatic,?,?,?,82000000
+Honda,2.4 Prestige,CR-V,2013,75.000-80.000 km,Bensin,Putih,Automatic,4X2,SUV,>2.000 - 3.000 cc,230000000
+Mercedes-Benz,?,CLA-Class,2019,0-5.000 km,Bensin,Lainnya,Automatic,?,?,?,935000000
+Mitsubishi,EXCEED A/T,Xpander,2018,30.000-35.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,233000000
+Honda,E,Freed,2010,85.000-90.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,148000000
+Toyota,Krista,Kijang,1999,225.000-230.000 km,Bensin,Biru,Manual,Rear Wheel Drive (RWD),Minibus,>1.500 - 2.000 cc,74000000
+Honda,E,Freed,2009,135.000-140.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,120000000
+Toyota,E,Agya,2016,75.000-80.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,<1.000 cc,81500000
+Toyota,G Luxury,Fortuner,2011,160.000-165.000 km,Bensin,Hitam,Automatic,?,Sports & Super Car,>2.000 - 3.000 cc,175000000
+Daihatsu,M,Luxio,2013,100.000-105.000 km,Bensin,Silver,Manual,?,?,?,103000000
+Mitsubishi,Pick Up,L300,1991,45.000-50.000 km,Diesel,Hitam,Manual,Rear Wheel Drive (RWD),Pick-up,>2.000 - 3.000 cc,35000000
+Honda,2.2,Accord,1994,250.000-255.000 km,Bensin,Hitam,Manual,All Wheel Drive (AWD),Sedan,>2.000 - 3.000 cc,43000000
+Honda,Satya E,Brio,2019,0-5.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,162000000
+Toyota,G,Avanza,2010,65.000-70.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,114000000
+Mitsubishi,Dakar 2.4,Pajero Sport,2017,5.000-10.000 km,Diesel,Abu-abu,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,460000000
+Toyota,"2,5 G",Camry,2016,60.000-65.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,277000000
+Honda,RS,Jazz,2011,75.000-80.000 km,Bensin,Biru,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.500 - 2.000 cc,159000000
+Daihatsu,1.2 X,Sigra,2017,95.000-100.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,110000000
+Daihatsu,X,Ayla,2015,40.000-45.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Compact & City Car,<1.000 cc,95000000
+Suzuki,Cross Over,SX4,2009,90.000-95.000 km,Bensin,Hitam,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,100000000
+Honda,2.4 i-VTEC,CR-V,2010,80.000-85.000 km,Bensin,Coklat,Automatic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,145000000
+Daihatsu,Lain-lain,Ayla,2018,15.000-20.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,125000000
+Honda,RS,Brio,2017,30.000-35.000 km,Bensin,Merah,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,140000000
+Toyota,E,Innova,2011,100.000-105.000 km,Bensin,Lainnya,Manual,?,?,?,121000000
+Suzuki,GL,Ertiga,2013,70.000-75.000 km,Bensin,Putih,Manual,?,?,?,130000000
+Toyota,LGX,Kijang,1998,155.000-160.000 km,Bensin,Hijau,Manual,?,?,?,62000000
+Mitsubishi,Exceed,Pajero Sport,2010,145.000-150.000 km,Bensin,Abu-abu,Automatic,?,?,?,205000000
+Ford,Trend,Fiesta,2013,65.000-70.000 km,Bensin,Biru,Automatic Triptonic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,105000000
+Nissan,Lain-lain,X-Trail,2009,150.000-155.000 km,Bensin,Silver,Automatic,4X2,SUV,>1.500 - 2.000 cc,115000123
+Toyota,G,Avanza,2014,145.000-150.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,133000000
+Mitsubishi,Lain-lain,Xpander,2019,0-5.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,225000000
+Daihatsu,1.2 R,Sigra,2016,40.000-45.000 km,Bensin,Putih,Manual,4X2,MPV,>1.000 - 1.500 cc,125000000
+Toyota,TRD Sportivo,Agya,2014,25.000-30.000 km,Bensin,Merah,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,89000000
+Toyota,S,Rush,2017,15.000-20.000 km,Bensin,Abu-abu,Automatic,?,?,?,176000000
+Toyota,G,Avanza,2013,55.000-60.000 km,Bensin,Hitam,Manual,?,?,?,133000000
+Mitsubishi,Dakar 2.4,Pajero Sport,2012,90.000-95.000 km,Diesel,Hitam,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,260000000
+Honda,?,Ferio,1997,100.000-105.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,69000000
+Suzuki,Cross Over,SX4,2009,150.000-155.000 km,Bensin,Hitam,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,92000000
+KIA,SE,Picanto,2008,20.000-25.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,71000000
+Honda,?,Civic,2016,35.000-40.000 km,Bensin,Abu-abu,Automatic,?,?,?,345000000
+Daihatsu,X,Ayla,2015,15.000-20.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Compact & City Car,<1.000 cc,88000000
+Suzuki,Lain-lain,Splash,2013,60.000-65.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,77500000
+Toyota,G Luxury,Fortuner,2009,100.000-105.000 km,Bensin,Hitam,Automatic,4X2,?,>2.000 - 3.000 cc,167000000
+Toyota,V,Sienta,2018,20.000-25.000 km,Bensin,Coklat,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,177000000
+Honda,S,HR-V,2017,20.000-25.000 km,Bensin,Hitam,Automatic,?,?,?,218000000
+Nissan,RX,Juke,2013,35.000-40.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,154000000
+Toyota,E,Avanza,2016,50.000-55.000 km,Bensin,Hitam,Automatic,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,144000000
+Mitsubishi,Lain-lain,Outlander,2014,35.000-40.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,177000000
+Honda,E,Freed,2013,80.000-85.000 km,Bensin,Abu-abu,Automatic,4X2,Minibus,>1.000 - 1.500 cc,165000000
+Suzuki,Cross Over,SX4,2017,35.000-40.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,184000000
+Suzuki,Lain-lain,SX4,2017,5.000-10.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,174000000
+Honda,2.0,CR-V,2013,75.000-80.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,227000000
+Mitsubishi,Dakar,Pajero Sport,2017,25.000-30.000 km,Bensin,Putih,Automatic,?,?,?,420000000
+Nissan,1.2L,March,2016,45.000-50.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,104000000
+Toyota,SRZ,Fortuner,2016,35.000-40.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),MPV,>2.000 - 3.000 cc,364000000
+Daihatsu,G100,Charade,1989,10.000-15.000 km,Bensin,Biru,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,23500000
+Nissan,Lain-lain,X-Trail,2009,150.000-155.000 km,Bensin,Silver,Automatic,4X2,SUV,>2.000 - 3.000 cc,115000000
+Nissan,XV,Teana,2011,55.000-60.000 km,Bensin,Putih,Automatic,4X2,Sedan,>2.000 - 3.000 cc,145000000
+Datsun,Lain-lain,Cross,2018,5.000-10.000 km,Bensin,Merah,Automatic,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,127000000
+Nissan,2.5,Navara,2009,155.000-160.000 km,Diesel,Hitam,Automatic,4X4,Double Cabin,>2.000 - 3.000 cc,205000000
+Honda,E,Mobilio,2016,65.000-70.000 km,Bensin,Hitam,Automatic,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,135000000
+Honda,2.4 Prestige,CR-V,2013,145.000-150.000 km,Bensin,Putih,Automatic,4X2,SUV,>2.000 - 3.000 cc,225000000
+Daihatsu,X,Luxio,2011,100.000-105.000 km,Bensin,Abu-abu,Manual,?,?,?,99500000
+Honda,S,Jazz,2011,75.000-80.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,127000000
+Honda,RS,Jazz,2015,50.000-55.000 km,Bensin,Putih,Manual,?,?,?,175000000
+Ford,Sport,Fiesta,2011,105.000-110.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Hatchback,>1.500 - 2.000 cc,90000000
+Mitsubishi,1.4,Lancer,<1986,115.000-120.000 km,Bensin,Putih,Manual,4X2,Sedan,>1.000 - 1.500 cc,10000000
+Honda,E,Mobilio,2015,125.000-130.000 km,Bensin,Marun,Manual,?,MPV,>1.000 - 1.500 cc,150000000
+Daihatsu,R 1.3 Sporty,Xenia,2012,155.000-160.000 km,Bensin,Putih,Automatic,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,98000000
+Toyota,Krista,Kijang,2003,175.000-180.000 km,Bensin,Silver,Automatic,4X4,Minibus,>1.500 - 2.000 cc,87000000
+Toyota,G,Innova,2006,120.000-125.000 km,Bensin,Hijau,Automatic,4X2,Compact & City Car,>1.500 - 2.000 cc,80000000
+Honda,E CVT,HR-V,2017,55.000-60.000 km,Bensin,Silver,Automatic,?,SUV,>1.000 - 1.500 cc,232000000
+Toyota,S,Yaris,2018,20.000-25.000 km,Bensin,Putih,Automatic,?,?,?,218000000
+Toyota,SSX,Kijang,1993,>300.000 km,Bensin,Biru,Manual,?,?,>1.000 - 1.500 cc,42000000
+Daihatsu,Lain-lain,Gran max,2012,150.000-155.000 km,Bensin,Hitam,Manual,?,Pick-up,>1.000 - 1.500 cc,68500000
+Toyota,VRZ,Fortuner,2016,55.000-60.000 km,Diesel,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Minibus,>2.000 - 3.000 cc,370000000
+Nissan,1.2,March,2018,20.000-25.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,133000000
+Honda,2.0,CR-V,2008,55.000-60.000 km,Bensin,Abu-abu,Automatic,4X2,Minibus,>1.000 - 1.500 cc,136000000
+Daihatsu,TX,Terios,2011,115.000-120.000 km,Bensin,Hitam,Automatic,4X2,MPV,>1.000 - 1.500 cc,123000000
+Daihatsu,R 1.3 DLX,Xenia,2012,90.000-95.000 km,Bensin,Biru,Manual,4X2,MPV,>1.000 - 1.500 cc,105000000
+Mazda,Sport,CX-5,2014,55.000-60.000 km,Bensin,Putih,Automatic Triptonic,4X2,SUV,>2.000 - 3.000 cc,200000000
+Toyota,S,Yaris,2009,110.000-115.000 km,Bensin,Silver,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,95000000
+KIA,M/T,Picanto,2013,35.000-40.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Compact & City Car,?,81000000
+Honda,2.0,CR-V,2008,80.000-85.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,133000000
+Mitsubishi,2.5L Dakar,Pajero Sport,2017,55.000-60.000 km,Diesel,Putih,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,399999999
+Toyota,G,Fortuner,2010,70.000-75.000 km,Bensin,Hitam,Automatic,4X2,Jeep,>2.000 - 3.000 cc,204000000
+Toyota,G,Agya,2016,25.000-30.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,106000000
+Toyota,G,Avanza,2014,60.000-65.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,134000000
+Toyota,G,Avanza,2013,60.000-65.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,132000000
+Toyota,TRD Sportivo,Agya,2016,10.000-15.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,106000000
+Toyota,G,Innova,2014,45.000-50.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.500 - 2.000 cc,171000000
+Toyota,Veloz,Avanza,2014,60.000-65.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,149000000
+Suzuki,GX,APV,2013,55.000-60.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,112000000
+Nissan,2.5,Navara,2008,145.000-150.000 km,Diesel,Hitam,Manual,4X4,Double Cabin,>2.000 - 3.000 cc,155000000
+Peugeot,XS,206,2003,110.000-115.000 km,Bensin,Biru,Automatic,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,35000000
+Toyota,G,Sienta,2017,15.000-20.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,166000000
+Toyota,"2,5 V",Camry,2011,130.000-135.000 km,Bensin,Hitam,Automatic Triptonic,4X2,Sedan,>2.000 - 3.000 cc,170000000
+Ford,Trend,Fiesta,2011,80.000-85.000 km,Bensin,Abu-abu,Automatic Triptonic,?,?,?,82500000
+Toyota,G Luxury,Fortuner,2007,90.000-95.000 km,Bensin,Silver,Automatic,4X2,Jeep,>1.500 - 2.000 cc,158000000
+Daihatsu,Lain-lain,Gran max,2014,110.000-115.000 km,Bensin,Hitam,Manual,?,Minibus,>1.000 - 1.500 cc,75000000
+Mercedes-Benz,E300,E-Class,2017,0-5.000 km,Bensin,Putih,Automatic,Rear Wheel Drive (RWD),Coupe,>3.000 cc,1550000000
+Suzuki,?,Ertiga,2019,0-5.000 km,Bensin,Silver,Manual,?,?,?,180000000
+Toyota,4.5 V8 Diesel,Land Cruiser,2012,25.000-30.000 km,Diesel,Hitam,Automatic Triptonic,4X4,Jeep,>3.000 cc,1150000000
+Toyota,G,Innova,2014,35.000-40.000 km,Diesel,Silver,Manual,4X2,MPV,>2.000 - 3.000 cc,225000000
+Daihatsu,X 1.3 Plus,Xenia,2014,110.000-115.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,110000000
+Nissan,1.6,Latio,2010,280.000-285.000 km,Bensin,Ungu,Manual,Rear Wheel Drive (RWD),Sedan,>1.500 - 2.000 cc,49000000
+Toyota,TRD Sportivo,Yaris,2015,35.000-40.000 km,Bensin,Oranye,Automatic,Front Wheel Drive (FWD),?,>1.000 - 1.500 cc,168000000
+Chevrolet,ACTIV,Spin,2015,30.000-35.000 km,Bensin,Putih,Automatic,?,?,>1.000 - 1.500 cc,147500000
+Toyota,G,Innova,2016,50.000-55.000 km,Bensin,Abu-abu,Manual,Rear Wheel Drive (RWD),MPV,>2.000 - 3.000 cc,235000000
+Honda,E CVT,HR-V,2018,20.000-25.000 km,Bensin,Abu-abu,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,270000000
+Mitsubishi,Lain-lain,Xpander,2019,0-5.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,225000000
+Daihatsu,X,Ayla,2018,5.000-10.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,122000000
+Toyota,G,Rush,2014,90.000-95.000 km,Bensin,Silver,Automatic,4X2,SUV,>1.000 - 1.500 cc,145000000
+Honda,E,Freed,2015,30.000-35.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,209000000
+Toyota,G,Sienta,2017,20.000-25.000 km,Bensin,Abu-abu,Automatic,4X2,MPV,>1.000 - 1.500 cc,162000000
+Toyota,G,Avanza,2018,15.000-20.000 km,Bensin,Hitam,Manual,?,?,?,162000000
+Isuzu,Touring,Panther,2002,295.000-300.000 km,Diesel,Biru,Manual,?,Jeep,>2.000 - 3.000 cc,114500000
+Mitsubishi,Dakar,Pajero Sport,2016,20.000-25.000 km,Diesel,Putih,Automatic,?,?,?,430000000
+Honda,2.4,CR-V,2010,80.000-85.000 km,Bensin,Silver,Automatic,4X2,Sedan,>2.000 - 3.000 cc,115000000
+Toyota,G,Innova,2015,50.000-55.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Minibus,>2.000 - 3.000 cc,180000000
+Datsun,Panca T,Go,2017,15.000-20.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,80000000
+BMW,528i Luxury,Serie 5,2014,30.000-35.000 km,Bensin,Putih,Automatic,?,?,?,499000000
+Toyota,G,Vios,2013,>300.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,87500000
+Suzuki,Cross Over,SX4,2011,95.000-100.000 km,Bensin,Hitam,Manual,4X2,SUV,>1.000 - 1.500 cc,112500000
+Land Rover,HSE,Range Rover Sport,2017,5.000-10.000 km,Bensin,Putih,Automatic,4X4,SUV,>2.000 - 3.000 cc,1950000000
+Daihatsu,Li Deluxe,Xenia,2008,95.000-100.000 km,Bensin,Coklat,Manual,Rear Wheel Drive (RWD),MPV,<1.000 cc,78500000
+Toyota,G,Innova,2015,75.000-80.000 km,Bensin,Lainnya,Manual,?,?,>1.500 - 2.000 cc,195000000
+Mitsubishi,Exceed,Pajero Sport,2015,60.000-65.000 km,Diesel,Hitam,Automatic Triptonic,4X2,Minibus,>2.000 - 3.000 cc,310000000
+Toyota,Lain-lain,Kijang Pick-Up,1986,>300.000 km,Bensin,Putih,Manual,4X2,Pick-up,>1.000 - 1.500 cc,29000000
+Toyota,SGX,Kijang,2000,20.000-25.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.500 - 2.000 cc,65000000
+Honda,2.4 Prestige,CR-V,2013,65.000-70.000 km,Bensin,Hitam,Automatic Triptonic,4X2,MPV,>2.000 - 3.000 cc,250000000
+Honda,VTEC,City,2004,140.000-145.000 km,Bensin,Silver,Automatic,?,Sedan,>1.000 - 1.500 cc,67500000
+Honda,2.4,CR-V,2012,105.000-110.000 km,Bensin,Abu-abu,Automatic Triptonic,4X2,MPV,>2.000 - 3.000 cc,220000000
+Toyota,LX,Kijang,1999,25.000-30.000 km,Bensin,Hijau,Manual,4X2,Minibus,>1.500 - 2.000 cc,50000000
+Honda,i-DSI,City,2003,95.000-100.000 km,Bensin,Coklat,Manual,4X2,Sedan,>1.000 - 1.500 cc,65000000
+Suzuki,Lain-lain,Karimun estillo,2010,80.000-85.000 km,Bensin,Coklat,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,62000000
+Nissan,Lain-lain,Grand livina,2013,80.000-85.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,115000000
+Chevrolet,Lain-lain,Captiva,2009,80.000-85.000 km,Diesel,Silver,Automatic,4X2,SUV,>1.500 - 2.000 cc,97500000
+Honda,E,Freed,2014,85.000-90.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,155000000
+Daihatsu,Lain-lain,Gran max,2009,10.000-15.000 km,Bensin,Putih,Automatic,All Wheel Drive (AWD),Minibus,>1.000 - 1.500 cc,51000000
+Honda,VTEC,Jazz,2008,95.000-100.000 km,Bensin,Putih,Automatic Triptonic,4X2,Hatchback,>1.000 - 1.500 cc,85000000
+Toyota,G S C Package,Alphard,2009,95.000-100.000 km,Bensin,Hitam,Automatic,4X2,MPV,>2.000 - 3.000 cc,288000000
+Suzuki,?,Ertiga,2013,70.000-75.000 km,Bensin,Hitam,Automatic,?,MPV,>1.000 - 1.500 cc,113000000
+Honda,2.4,CR-V,2011,90.000-95.000 km,Bensin,Biru,Automatic,4X2,MPV,>2.000 - 3.000 cc,165000000
+Toyota,Lain-lain,Kijang,2014,65.000-70.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.500 - 2.000 cc,175000000
+Daihatsu,R,Terios,2018,15.000-20.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),SUV,>1.000 - 1.500 cc,240000000
+Toyota,G,Avanza,2012,90.000-95.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,125103000
+Daihatsu,Lain-lain,Feroza,1994,40.000-45.000 km,Bensin,Lainnya,Manual,?,?,?,35000000
+Honda,2.0,Accord,1991,35.000-40.000 km,Bensin,Silver,Manual,4X4,Sedan,>1.500 - 2.000 cc,34000000
+Toyota,TRD Sportivo,Agya,2015,30.000-35.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,101000000
+Toyota,S,Avanza,2011,40.000-45.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,120000000
+Nissan,Lain-lain,Grand livina,2010,160.000-165.000 km,Bensin,Hitam,Automatic,4X2,MPV,>1.500 - 2.000 cc,72000000
+Mini Cooper,?,Mini Cooper,2017,5.000-10.000 km,Bensin,Merah,Automatic,?,?,?,690000000
+Honda,E CVT,HR-V,2017,5.000-10.000 km,Bensin,Putih,Automatic,4X2,SUV,>1.000 - 1.500 cc,245000000
+Honda,S,Freed,2013,65.000-70.000 km,Bensin,Hitam,Automatic,?,?,?,170000000
+Suzuki,Mega Carry Box,APV,2014,35.000-40.000 km,Bensin,Putih,Manual,4X2,Pick-up,>1.000 - 1.500 cc,72000000
+BMW,318i 1.8,Serie 3,2002,15.000-20.000 km,Bensin,Silver,Automatic Triptonic,?,Sedan,>1.000 - 1.500 cc,90000000
+Nissan,X-Gear,Livina,2009,70.000-75.000 km,Bensin,Hitam,Manual,4X2,MPV,>1.000 - 1.500 cc,81000000
+Datsun,Panca T Opt,Go+,2016,15.000-20.000 km,Bensin,Putih,Manual,4X4,MPV,>1.000 - 1.500 cc,84000000
+Toyota,1.5,Kijang,1992,80.000-85.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,29500000
+Datsun,Panca T Style,Go+,2015,35.000-40.000 km,Bensin,Abu-abu,Manual,4X2,Sedan,>1.000 - 1.500 cc,87500000
+KIA,EX AT,Rio 5 Door,2011,115.000-120.000 km,Bensin,Putih,Automatic,4X2,Sedan,>1.000 - 1.500 cc,78000000
+Suzuki,Lain-lain,Grand vitara,2006,0-5.000 km,Bensin,Abu-abu,Automatic,?,?,?,87000000
+Suzuki,Lain-lain,Futura,2015,5.000-10.000 km,Bensin,Hitam,Manual,4X2,Pick-up,>1.000 - 1.500 cc,90000000
+Nissan,HWS,Serena,2014,65.000-70.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.500 - 2.000 cc,186000000
+Ford,Titanium,Ecosport,2015,45.000-50.000 km,Bensin,Abu-abu,Automatic Triptonic,?,?,?,122000000
+Mitsubishi,Dakar,Pajero Sport,2016,5.000-10.000 km,Diesel,Hitam,Automatic Triptonic,4X4,SUV,>2.000 - 3.000 cc,540000000
+Nissan,Lain-lain,Grand livina,2018,10.000-15.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.000 - 1.500 cc,160000000
+Mitsubishi,Dakar,Pajero Sport,2017,35.000-40.000 km,Diesel,Hitam,Automatic Triptonic,4X2,Jeep,>2.000 - 3.000 cc,438000000
+Suzuki,GX Elegant,Ertiga,2018,15.000-20.000 km,Bensin,Silver,Automatic Triptonic,Rear Wheel Drive (RWD),MPV,>1.500 - 2.000 cc,165000000
+Toyota,TRD Sportivo,Yaris,2015,85.000-90.000 km,Bensin,Hitam,Automatic,4X2,Sedan,>1.000 - 1.500 cc,175000000
+Hyundai,Lain-lain,Lain-lain,2008,35.000-40.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,60000000
+Toyota,Lain-lain,Alphard,2015,30.000-35.000 km,Bensin,Putih,Automatic,4X2,Minibus,>2.000 - 3.000 cc,705000000
+Daihatsu,X Deluxe,Xenia,2016,20.000-25.000 km,Bensin,Hitam,Automatic,4X2,Minibus,>1.000 - 1.500 cc,139000000
+Mitsubishi,Dakar,Pajero Sport,2014,75.000-80.000 km,Bensin,Putih,Automatic,4X2,?,>3.000 cc,325000000
+Toyota,2.0,Crown,1990,25.000-30.000 km,Bensin,Hitam,Automatic,Rear Wheel Drive (RWD),Sedan,>1.500 - 2.000 cc,36000000
+Honda,Sports E,Brio,2012,70.000-75.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,117500000
+Hyundai,GLS,Atoz,2001,140.000-145.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),Minibus,<1.000 cc,44000000
+Honda,GK,Jazz,2016,25.000-30.000 km,Bensin,Kuning,Automatic Triptonic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,223000000
+Toyota,G,Avanza,2018,45.000-50.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,170000000
+Toyota,Lain-lain,Lain-lain,1999,50.000-55.000 km,Bensin,Lainnya,Automatic,4X2,Sedan,>1.500 - 2.000 cc,49000000
+Daihatsu,R 1.3 Sporty,Xenia,2014,80.000-85.000 km,Bensin,Hitam,Manual,All Wheel Drive (AWD),MPV,>1.000 - 1.500 cc,115000000
+Isuzu,Touring,Panther,2002,>300.000 km,Diesel,Biru,Automatic,4X2,MPV,>2.000 - 3.000 cc,85000000
+Daihatsu,Li Deluxe,Xenia,2008,100.000-105.000 km,Bensin,Silver,Manual,4X2,Minibus,<1.000 cc,75000000
+Hyundai,GL,Grand Avega,2011,55.000-60.000 km,Bensin,Hitam,Manual,?,?,?,90000000
+Nissan,Lain-lain,X-Trail,2005,100.000-105.000 km,Bensin,Hitam,Automatic,4X2,SUV,>2.000 - 3.000 cc,72500000
+Honda,?,HR-V,2019,0-5.000 km,Bensin,Lainnya,Automatic,?,?,?,230000000
+Toyota,?,Rush,2019,0-5.000 km,Bensin,Lainnya,Manual,?,?,?,267900000
+Suzuki,GX,Ertiga,2019,0-5.000 km,Bensin,Lainnya,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,190500000
+Mitsubishi,ULTIMATE A/T,Xpander,2018,25.000-30.000 km,Bensin,Hitam,Automatic,4X2,Hatchback,>1.500 - 2.000 cc,241000000
+Proton,Lain-lain,Lain-lain,2017,0-5.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,110000000
+Daihatsu,X Elegant,Ayla,2015,105.000-110.000 km,Bensin,Merah,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,85000000
+Toyota,Lain-lain,Corolla,<1986,45.000-50.000 km,Bensin,Ungu,Manual,4X2,Sedan,<1.000 cc,16500000
+Hyundai,1.5,Accent,2000,70.000-75.000 km,Bensin,Hitam,Manual,4X2,Sedan,>1.000 - 1.500 cc,33000000
+Honda,VTEC,Jazz,2006,100.000-105.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,93000000
+Honda,i-DSI,City,2003,185.000-190.000 km,Bensin,Merah,Automatic Triptonic,4X2,Sedan,>1.000 - 1.500 cc,47500000
+Mercedes-Benz,E300,E-Class,1990,195.000-200.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Sedan,>3.000 cc,100000000
+Suzuki,GL,Splash,2014,55.000-60.000 km,Bensin,Putih,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,113000000
+Suzuki,Lain-lain,Karimun estillo,2011,40.000-45.000 km,Bensin,Silver,Manual,4X2,Wagon,>1.000 - 1.500 cc,56500000
+Toyota,V,Sienta,2016,40.000-45.000 km,Bensin,Putih,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,149000000
+Honda,VTi-L,Accord,2006,155.000-160.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,95000000
+Honda,E,Mobilio,2014,50.000-55.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.500 - 2.000 cc,123950000
+Mazda,Lain-lain,Lain-lain,1988,295.000-300.000 km,Bensin,Kuning,Manual,Rear Wheel Drive (RWD),Sedan,>1.500 - 2.000 cc,19750000
+Toyota,2.0,Corona,<1986,50.000-55.000 km,Bensin,Hijau,Manual,Rear Wheel Drive (RWD),Sedan,>1.500 - 2.000 cc,18000000
+Toyota,Gli,Soluna,2002,115.000-120.000 km,Bensin,Silver,Automatic,4X2,SUV,>2.000 - 3.000 cc,39999999
+Toyota,G 1.8,Corolla Altis,2005,170.000-175.000 km,Bensin,Hitam,Automatic,4X2,Sedan,>1.500 - 2.000 cc,85000000
+Toyota,G,Calya,2017,35.000-40.000 km,Bensin,Putih,Automatic,4X2,Minibus,>1.000 - 1.500 cc,116000000
+Hyundai,GL8,Trajet,2005,100.000-105.000 km,Bensin,Abu-abu,Manual,?,Minibus,>2.000 - 3.000 cc,60000000
+Honda,E Limited Edition,HR-V,2017,10.000-15.000 km,Bensin,Merah,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,235000000
+Toyota,Lain-lain,Kijang,1989,>300.000 km,Bensin,Lainnya,Manual,?,SUV,>1.000 - 1.500 cc,33000000
+Honda,E,Brio,2017,25.000-30.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,128000000
+Daihatsu,Lain-lain,Gran max,2015,60.000-65.000 km,Bensin,Silver,Manual,?,Minibus,>1.000 - 1.500 cc,88600000
+Honda,VTEC,City,2006,120.000-125.000 km,Bensin,Abu-abu,Manual,4X2,Sedan,>1.000 - 1.500 cc,74990000
+Toyota,G,Yaris,2015,5.000-10.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.000 - 1.500 cc,153000000
+Daihatsu,Adventure R,Terios,2018,35.000-40.000 km,Bensin,Coklat,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,220000000
+Toyota,2.0,Corolla,2004,100.000-105.000 km,Bensin,Hitam,Manual,4X2,Hatchback,>1.000 - 1.500 cc,78990000
+Toyota,TRD Sportivo,Yaris,2018,10.000-15.000 km,Bensin,Kuning,Automatic Triptonic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,220000000
+Ford,Trend,Fiesta,2014,75.000-80.000 km,Bensin,Merah,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,119000000
+Toyota,G,Avanza,2017,55.000-60.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,162000000
+Suzuki,GX,Karimun,2006,145.000-150.000 km,Bensin,Coklat,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,58999999
+Isuzu,2.5,Panther,2000,180.000-185.000 km,Diesel,Abu-abu,Manual,4X2,SUV,>2.000 - 3.000 cc,58500000
+Daihatsu,Lain-lain,Sirion,2015,5.000-10.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.000 - 1.500 cc,120000000
+Toyota,G,Agya,2014,40.000-45.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Compact & City Car,>1.000 - 1.500 cc,88000000
+Honda,E,Mobilio,2015,55.000-60.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,148000000
+Toyota,G,Innova,2016,55.000-60.000 km,Diesel,Abu-abu,Manual,Front Wheel Drive (FWD),Minibus,>2.000 - 3.000 cc,275000000
+Toyota,?,Innova,2015,90.000-95.000 km,Bensin,Abu-abu,Automatic,?,?,?,189000000
+Toyota,G,Alphard,2012,45.000-50.000 km,Bensin,Putih,Automatic,?,?,?,395000000
+Toyota,V,Innova,2012,150.000-155.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),Minibus,?,155000000
+Honda,2.4 Prestige,CR-V,2017,45.000-50.000 km,Bensin,Silver,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,400000000
+Daihatsu,Lain-lain,Espass,2002,105.000-110.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,35000000
+Honda,E,Brio,2014,5.000-10.000 km,Bensin,Putih,Automatic,4X2,MPV,?,120000000
+Toyota,S,Rush,2010,95.000-100.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Jeep,>1.000 - 1.500 cc,128000000
+Suzuki,GL,Splash,2010,80.000-85.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,68000000
+Honda,i-DSI,City,2008,10.000-15.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,82000000
+Toyota,G,Agya,2014,75.000-80.000 km,Bensin,Silver,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,82500000
+Mercedes-Benz,E200K,E-Class,2007,180.000-185.000 km,Bensin,Silver,Automatic Triptonic,4X2,Sedan,>1.500 - 2.000 cc,135000000
+Daihatsu,X,Xenia,2015,60.000-65.000 km,Bensin,Marun,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,125000000
+Toyota,S,Yaris,2008,125.000-130.000 km,Bensin,Abu-abu,Automatic,?,?,>1.000 - 1.500 cc,96000000
+Hyundai,GL Airbag,Grand Avega,2014,65.000-70.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,100000000
+Daihatsu,X,Ayla,2015,45.000-50.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Minibus,<1.000 cc,109000000
+Honda,RS,Jazz,2016,55.000-60.000 km,Bensin,Abu-abu,Automatic Triptonic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,205000000
+Nissan,Lain-lain,Livina,2012,85.000-90.000 km,Bensin,Putih,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,108000000
+Chevrolet,Lain-lain,Lain-lain,2013,100.000-105.000 km,Bensin,Hitam,Manual,4X2,?,>1.000 - 1.500 cc,94000000
+Honda,2.0 i-VTEC,CR-V,2013,145.000-150.000 km,Bensin,Silver,Automatic,4X2,SUV,>1.500 - 2.000 cc,195000000
+Honda,1.3,Civic,<1986,>300.000 km,Bensin,Biru,Manual,?,Sedan,>1.000 - 1.500 cc,16000000
+Suzuki,Cross Over,SX4,2008,95.000-100.000 km,Bensin,Abu-abu,Automatic,4X2,?,>1.000 - 1.500 cc,78000000
+Suzuki,GL,Ertiga,2017,30.000-35.000 km,Bensin,Silver,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,130000000
+Toyota,G,Vios,2012,100.000-105.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,73000000
+Mitsubishi,?,Xpander,2019,0-5.000 km,Bensin,Lainnya,Automatic,?,?,?,247100000
+Daihatsu,X 1.3 STD,Xenia,2015,60.000-65.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,130000000
+Toyota,G Basic,Avanza,2009,105.000-110.000 km,Bensin,Hijau,Manual,?,?,>1.000 - 1.500 cc,90000000
+Isuzu,Lain-lain,D-Max,2010,145.000-150.000 km,Diesel,Putih,Manual,?,Double Cabin,>2.000 - 3.000 cc,105000000
+Honda,Vti,Accord,2005,115.000-120.000 km,Bensin,Lainnya,Manual,Rear Wheel Drive (RWD),Minibus,>1.500 - 2.000 cc,45000000
+Honda,E,Mobilio,2016,5.000-10.000 km,Bensin,Putih,Automatic,4X2,MPV,>1.000 - 1.500 cc,150000000
+Toyota,TRD Sportivo,Agya,2019,0-5.000 km,Bensin,Silver,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,160000000
+Nissan,Lain-lain,Grand livina,2011,100.000-105.000 km,Bensin,Silver,Manual,?,?,?,98000000
+Toyota,TRD Sportivo,Yaris,2018,0-5.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Compact & City Car,>1.000 - 1.500 cc,205000000
+Daihatsu,R 1.3 DLX,Xenia,2017,50.000-55.000 km,Bensin,Putih,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,142000000
+Land Rover,Lain-lain,Lain-lain,<1986,50.000-55.000 km,Bensin,Hijau,Manual,4X4,Offroad,>2.000 - 3.000 cc,78000000
+Ford,Trend,Ecosport,2014,105.000-110.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,130000000
+Honda,1.5 Hybrid,CR-Z,2014,5.000-10.000 km,Bensin,Merah,Automatic Triptonic,4X2,Sports & Super Car,>1.000 - 1.500 cc,332000000
+Toyota,G,Avanza,2018,10.000-15.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,151000000
+Suzuki,Lain-lain,Carry,1990,35.000-40.000 km,Bensin,Merah,Manual,4X2,Hatchback,>1.000 - 1.500 cc,18000000
+Toyota,G,Avanza,2015,55.000-60.000 km,Bensin,Abu-abu,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,150000000
+Toyota,S,Avanza,2009,100.000-105.000 km,Bensin,Hitam,Automatic,4X2,Minibus,?,71000000
+Toyota,?,Avanza,2019,0-5.000 km,Bensin,Hitam,Manual,?,?,?,159500000
+Mercedes-Benz,C200,C-Class,2009,90.000-95.000 km,Bensin,Hitam,Automatic,Rear Wheel Drive (RWD),Sedan,>1.500 - 2.000 cc,190000000
+Toyota,V,Sienta,2016,70.000-75.000 km,Bensin,Oranye,Manual,?,?,>1.500 - 2.000 cc,186000000
+Mini Cooper,Lain-lain,Mini Cooper,2010,5.000-10.000 km,Bensin,Merah,Automatic Triptonic,Rear Wheel Drive (RWD),Compact & City Car,>1.500 - 2.000 cc,469000000
+Toyota,G,Avanza,2015,10.000-15.000 km,Bensin,Coklat,Manual,4X2,Minibus,>1.000 - 1.500 cc,135000000
+Honda,S,Mobilio,2014,75.000-80.000 km,Bensin,Putih,Manual,?,Minibus,>1.000 - 1.500 cc,132000000
+Honda,2.4,CR-V,2012,95.000-100.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,175000000
+Hyundai,Lain-lain,Cakra,1996,15.000-20.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,20000000
+Mitsubishi,Pick Up,T120SS,2004,25.000-30.000 km,Bensin,Hitam,Manual,4X2,Pick-up,>1.000 - 1.500 cc,36000000
+Daihatsu,R 1.3 DLX,Xenia,2013,45.000-50.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,102000000
+Toyota,TRD Sportivo,Agya,2016,30.000-35.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),Compact & City Car,>1.000 - 1.500 cc,105000000
+BMW,325i 2.5,Serie 3,2011,65.000-70.000 km,Bensin,Hitam,Automatic Triptonic,4X2,Sedan,>2.000 - 3.000 cc,243000000
+Mitsubishi,Lain-lain,Outlander,2013,75.000-80.000 km,Bensin,Abu-abu,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,162000000
+Toyota,G,Rush,2010,100.000-105.000 km,Bensin,Silver,Manual,4X2,Jeep,>1.000 - 1.500 cc,125000000
+Honda,E,Brio,2015,35.000-40.000 km,Bensin,Hitam,Manual,All Wheel Drive (AWD),Sedan,>1.000 - 1.500 cc,90000000
+Honda,E,Mobilio,2014,50.000-55.000 km,Bensin,Hitam,Automatic,4X2,Sedan,>1.000 - 1.500 cc,130000000
+Toyota,V,Sienta,2018,10.000-15.000 km,Bensin,Silver,Automatic,?,?,>1.000 - 1.500 cc,211000000
+Mazda,Lain-lain,Lain-lain,1990,150.000-155.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,26000000
+Nissan,?,Grand livina,2012,95.000-100.000 km,Bensin,Abu-abu,Manual,?,?,?,85000000
+?,?,?,?,?,?,?,?,?,?,?,?
+Toyota,4.6,Land Cruiser,2008,80.000-85.000 km,Bensin,Hitam,Automatic,4X4,SUV,>3.000 cc,925000000
+Honda,RS,Jazz,2016,35.000-40.000 km,Bensin,Hitam,Automatic Triptonic,?,?,?,198000000
+Nissan,?,X-Trail,2018,5.000-10.000 km,Bensin,Abu-abu,Automatic Triptonic,?,SUV,>2.000 - 3.000 cc,348000000
+Mitsubishi,Lain-lain,Outlander,2016,5.000-10.000 km,Bensin,Merah,Automatic,4X2,Compact & City Car,>1.500 - 2.000 cc,245000000
+Toyota,G,Innova,2012,100.000-105.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),Minibus,>1.500 - 2.000 cc,168000000
+Mitsubishi,V6,Pajero Sport,2015,30.000-35.000 km,Bensin,Putih,Automatic Triptonic,Rear Wheel Drive (RWD),Jeep,>2.000 - 3.000 cc,258000000
+Honda,i-DSI,Jazz,2004,15.000-20.000 km,Bensin,Merah,Automatic Triptonic,4X2,Sedan,>1.000 - 1.500 cc,73000000
+Daihatsu,1.2 R,Sigra,2017,15.000-20.000 km,Bensin,Putih,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,109000000
+Mitsubishi,Dakar,Pajero Sport,2016,60.000-65.000 km,Diesel,Putih,Automatic,4X4,Jeep,>2.000 - 3.000 cc,492000000
+Suzuki,GL,Splash,2010,170.000-175.000 km,Bensin,Coklat,Manual,4X2,Minibus,>1.000 - 1.500 cc,73500000
+Honda,2.0,CR-V,2010,65.000-70.000 km,Bensin,Silver,Automatic,?,SUV,>1.500 - 2.000 cc,150000000
+Honda,1.7,Stream,2002,15.000-20.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),MPV,>1.500 - 2.000 cc,63000000
+Mitsubishi,Lain-lain,Pajero,2009,100.000-105.000 km,Diesel,Hitam,Automatic,Rear Wheel Drive (RWD),Jeep,>2.000 - 3.000 cc,225000000
+Mitsubishi,Exceed,Pajero Sport,2012,70.000-75.000 km,Diesel,Putih,Automatic Triptonic,Rear Wheel Drive (RWD),Jeep,>2.000 - 3.000 cc,228000000
+Honda,VTi-L,Accord,2008,65.000-70.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,128500000
+Mercedes-Benz,C180,C-Class,1995,150.000-155.000 km,Bensin,Hijau,Automatic,4X2,Sedan,>1.500 - 2.000 cc,55000000
+Toyota,TRD Sportivo Heykers,Yaris,2016,40.000-45.000 km,Bensin,Hitam,Automatic Triptonic,All Wheel Drive (AWD),Hatchback,>1.000 - 1.500 cc,169000000
+Toyota,E,Avanza,2014,105.000-110.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,116000000
+Suzuki,Lain-lain,Grand vitara,2007,100.000-105.000 km,Bensin,Abu-abu,Automatic,Rear Wheel Drive (RWD),Jeep,>1.500 - 2.000 cc,91000001
+Toyota,VRZ,Fortuner,2017,25.000-30.000 km,Diesel,Hitam,Automatic Triptonic,Rear Wheel Drive (RWD),Jeep,>2.000 - 3.000 cc,460000000
+Toyota,G,Avanza,2014,55.000-60.000 km,Bensin,Putih,Manual,?,?,?,137000000
+Hyundai,?,New Tucson,2017,40.000-45.000 km,Diesel,Abu-abu,Automatic Triptonic,?,SUV,>1.500 - 2.000 cc,313000000
+Honda,S CVT,HR-V,2016,35.000-40.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),SUV,>1.000 - 1.500 cc,212000000
+Nissan,Lain-lain,X-Trail,2011,115.000-120.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),SUV,>1.500 - 2.000 cc,113500000
+Toyota,G,Avanza,2019,0-5.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,183950000
+Suzuki,GL MT ,Ignis,2019,10.000-15.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,120000000
+Toyota,G,Innova,2005,215.000-220.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),MPV,>1.500 - 2.000 cc,95000000
+Mitsubishi,Pick Up,L300,2014,85.000-90.000 km,Diesel,Hitam,Manual,4X2,Pick-up,>2.000 - 3.000 cc,135000000
+Datsun,Panca T,Go+,2015,35.000-40.000 km,Bensin,Putih,Manual,4X2,Hatchback,>1.000 - 1.500 cc,79000000
+Toyota,G,Sienta,2017,10.000-15.000 km,Bensin,Putih,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,161500000
+BMW,318i,Serie 3,1988,205.000-210.000 km,Bensin,Biru,Manual,Rear Wheel Drive (RWD),Classic Car,>1.500 - 2.000 cc,20000000
+Ford,XLT,Escape,2008,80.000-85.000 km,Bensin,Coklat,Automatic,4X2,SUV,>2.000 - 3.000 cc,84500000
+Datsun,?,Go+,2015,15.000-20.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,77000000
+Toyota,?,Vios,2010,65.000-70.000 km,Bensin,Hitam,Manual,4X2,Sedan,>1.000 - 1.500 cc,75000000
+Honda,i-DSI,City,2008,115.000-120.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,90000000
+Daihatsu,Xi,Xenia,2005,170.000-175.000 km,Bensin,Silver,Manual,4X2,Minibus,>1.000 - 1.500 cc,85000000
+Suzuki,GX,Ertiga,2016,35.000-40.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,135000000
+Honda,VTEC,City,2000,200.000-205.000 km,Bensin,Silver,Automatic,Rear Wheel Drive (RWD),Sedan,>1.000 - 1.500 cc,53500000
+Suzuki,Lain-lain,Carry Pick-up,1991,>300.000 km,Bensin,Putih,Manual,4X2,Pick-up,<1.000 cc,16500000
+Toyota,G,Innova,2008,120.000-125.000 km,Diesel,Silver,Manual,Rear Wheel Drive (RWD),Minibus,>2.000 - 3.000 cc,158000000
+Toyota,E,Calya,2017,70.000-75.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,125000000
+Nissan,Autech,Serena,2016,30.000-35.000 km,Bensin,Putih,Automatic,?,MPV,>1.500 - 2.000 cc,265000000
+Toyota,V,Innova,2016,20.000-25.000 km,Bensin,Abu-abu,Manual,?,?,?,260000000
+Honda,S,Freed,2013,65.000-70.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,148000000
+BMW,520i E60 2.2 l6,Serie 5,2005,180.000-185.000 km,Bensin,Hitam,Automatic Triptonic,4X2,Sedan,>2.000 - 3.000 cc,83000000
+Isuzu,2.5,Panther,1997,50.000-55.000 km,Diesel,Hijau,Manual,?,?,?,60000000
+Toyota,Q Venturer,Innova,2019,0-5.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),SUV,?,400000000
+Honda,Satya E,Brio,2014,35.000-40.000 km,Bensin,Silver,Manual,?,Compact & City Car,>1.000 - 1.500 cc,100000000
+Toyota,G,Avanza,2010,5.000-10.000 km,Bensin,Hitam,Manual,All Wheel Drive (AWD),Minibus,>1.000 - 1.500 cc,117500000
+Toyota,V,Sienta,2017,10.000-15.000 km,Bensin,Oranye,Automatic,?,?,>1.000 - 1.500 cc,191000000
+Toyota,G,Innova,2014,75.000-80.000 km,Bensin,Abu-abu,Manual,Rear Wheel Drive (RWD),Minibus,>1.500 - 2.000 cc,190000000
+Chevrolet,Lain-lain,Captiva,2008,85.000-90.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,100000000
+BMW,318i E36 1.8,Serie 3,1992,120.000-125.000 km,Bensin,Hijau,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,37500000
+Daihatsu,Xi Deluxe,Xenia,2010,10.000-15.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),Minibus,>1.000 - 1.500 cc,82000000
+Toyota,S,Avanza,2011,85.000-90.000 km,Bensin,Silver,Manual,?,?,>1.000 - 1.500 cc,106000000
+Suzuki,JLX,Escudo,1995,170.000-175.000 km,Bensin,Hijau,Manual,4X2,Jeep,>1.000 - 1.500 cc,48500000
+Toyota,G,Calya,2016,50.000-55.000 km,Bensin,Hitam,Automatic,?,Minibus,>1.000 - 1.500 cc,115000000
+Toyota,G,Avanza,2008,120.000-125.000 km,Bensin,Marun,Manual,Rear Wheel Drive (RWD),MPV,>1.000 - 1.500 cc,103000000
+Honda,2.0 i-VTEC,CR-V,2014,115.000-120.000 km,Bensin,Putih,Automatic,4X2,SUV,>1.500 - 2.000 cc,208000000
+Honda,E,Brio,2017,45.000-50.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,126000000
+Mercedes-Benz,Lain-lain,E-Class,1991,170.000-175.000 km,Bensin,Abu-abu,Automatic,?,Sedan,>2.000 - 3.000 cc,78500000
+Toyota,4.5 V8 Diesel,Land Cruiser,2013,35.000-40.000 km,Diesel,Hitam,Automatic,?,?,?,1450000000
+Daihatsu,R 1.3 DLX,Xenia,2013,90.000-95.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,105000000
+Suzuki,GX,Ertiga,2018,15.000-20.000 km,Bensin,Coklat,Automatic,4X2,Minibus,>1.000 - 1.500 cc,178900000
+Daihatsu,D,Sirion,2014,45.000-50.000 km,Bensin,Hitam,Manual,Rear Wheel Drive (RWD),Hatchback,>1.000 - 1.500 cc,105000000
+Daihatsu,M Sporty,Ayla,2016,50.000-55.000 km,Bensin,Merah,Manual,4X2,Compact & City Car,<1.000 cc,85000000
+Daihatsu,?,Xenia,2014,20.000-25.000 km,Bensin,Abu-abu,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,115000000
+Daihatsu,D,Sirion,2013,45.000-50.000 km,Bensin,Abu-abu,Manual,?,Compact & City Car,>1.000 - 1.500 cc,90000000
+Toyota,TRD Sportivo Heykers,Yaris,2017,25.000-30.000 km,Bensin,Hitam,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,189500000
+Toyota,TRD Sportivo,Agya,2014,50.000-55.000 km,Bensin,Silver,Automatic,?,?,<1.000 cc,94000000
+Nissan,1.2,March,2018,5.000-10.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,120000000
+Toyota,1.3,Corolla,<1986,25.000-30.000 km,Bensin,Biru,Manual,Rear Wheel Drive (RWD),Sedan,>1.000 - 1.500 cc,17000000
+Timor,1.6,DOHC,2000,135.000-140.000 km,Bensin,Biru,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,28500000
+KIA,M/T,Picanto,2008,115.000-120.000 km,Bensin,Hitam,Manual,4X2,Compact & City Car,>1.000 - 1.500 cc,59000000
+Toyota,V Luxury,Innova,2007,145.000-150.000 km,Bensin,Abu-abu,Automatic,4X2,MPV,>2.000 - 3.000 cc,105000000
+Volkswagen,TSI,Touran,2010,130.000-135.000 km,Bensin,Silver,Automatic,?,?,>1.000 - 1.500 cc,100999999
+Honda,2.4 Prestige,CR-V,2013,85.000-90.000 km,Bensin,Silver,Automatic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,238000000
+Daihatsu,?,Xenia,2012,175.000-180.000 km,Bensin,Silver,Manual,?,?,?,69000000
+Honda,S,Brio,2014,25.000-30.000 km,Bensin,Putih,Automatic,?,?,>1.000 - 1.500 cc,111000000
+Toyota,E,Vios,2003,50.000-55.000 km,Bensin,Silver,Manual,4X2,Classic Car,>1.000 - 1.500 cc,60000000
+Suzuki,?,Baleno,2019,0-5.000 km,Bensin,Putih,Manual,?,?,?,195000000
+Suzuki,GT2,Swift,2008,125.000-130.000 km,Bensin,Biru,Automatic,4X2,Hatchback,>1.000 - 1.500 cc,85000000
+Mitsubishi,Dakar,Pajero Sport,2017,45.000-50.000 km,Diesel,Hitam,Automatic,4X2,?,>2.000 - 3.000 cc,465000000
+Daihatsu,X,Xenia,2017,15.000-20.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,145000000
+Toyota,L Hybrid,Camry,2012,55.000-60.000 km,Hybrid,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Sedan,>2.000 - 3.000 cc,270000000
+Toyota,Lain-lain,Voxy,2018,15.000-20.000 km,Bensin,Putih,Automatic,4X2,Minibus,>2.000 - 3.000 cc,410000000
+Honda,Satya E,Brio,2014,75.000-80.000 km,Bensin,Silver,Manual,All Wheel Drive (AWD),?,?,105000000
+Mitsubishi,Pick Up,L300,1986,45.000-50.000 km,Bensin,Hijau,Manual,4X2,Pick-up,>1.000 - 1.500 cc,24500000
+Daihatsu,R 1.3 Sporty,Xenia,2014,90.000-95.000 km,Bensin,Abu-abu,Manual,4X2,SUV,>1.000 - 1.500 cc,125000000
+Honda,?,Jazz,2009,160.000-165.000 km,Bensin,Putih,Automatic,?,?,?,103000000
+Honda,2.0 i-VTEC,CR-V,2004,275.000-280.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),SUV,>2.000 - 3.000 cc,78000000
+Daihatsu,STD,Himax,2016,15.000-20.000 km,Bensin,Hitam,Manual,4X2,Pick-up,<1.000 cc,63500000
+Ford,XLT-D,Ranger,2012,40.000-45.000 km,Diesel,Silver,Manual,4X4,Double Cabin,>2.000 - 3.000 cc,123800000
+Toyota,G,Alphard,2012,60.000-65.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>2.000 - 3.000 cc,389000000
+Mitsubishi,EXCEED M/T,Xpander,2018,30.000-35.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,197000000
+Daihatsu,?,Xenia,2015,15.000-20.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,115000000
+Daihatsu,X Elegant,Ayla,2015,40.000-45.000 km,Bensin,Putih,Manual,?,?,>1.000 - 1.500 cc,110000000
+Toyota,G,Yaris,2015,25.000-30.000 km,Bensin,Putih,Manual,?,?,?,131000000
+Toyota,G,Avanza,2013,115.000-120.000 km,Bensin,Silver,Manual,All Wheel Drive (AWD),?,?,122000000
+Toyota,LGX-D,Kijang,2001,95.000-100.000 km,Diesel,Silver,Manual,?,?,?,76000000
+Suzuki,GX AT ,Ignis,2017,25.000-30.000 km,Bensin,Biru,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,130000000
+Honda,1.5,Freed,2010,80.000-85.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,114000000
+Toyota,TRD Sportivo,Yaris,2014,90.000-95.000 km,Bensin,Oranye,Automatic Triptonic,4X2,Hatchback,>1.500 - 2.000 cc,167000000
+Toyota,Q,Sienta,2017,20.000-25.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,195000000
+Toyota,G,Innova,2012,85.000-90.000 km,Diesel,Hitam,Manual,Rear Wheel Drive (RWD),Minibus,>2.000 - 3.000 cc,210000000
+Honda,S,Jazz,2013,55.000-60.000 km,Bensin,Abu-abu,Automatic,?,?,>1.000 - 1.500 cc,146000000
+Mercedes-Benz,C180,C-Class,2001,10.000-15.000 km,Bensin,Hitam,Automatic Triptonic,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,87000000
+Toyota,G,Avanza,2012,175.000-180.000 km,Bensin,Abu-abu,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,110000000
+Volkswagen,TSI,Golf,2011,90.000-95.000 km,Bensin,Merah,Automatic Triptonic,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,150000000
+Mitsubishi,SPORT A/T,Xpander,2017,15.000-20.000 km,Bensin,Silver,Automatic,4X2,Minibus,>1.000 - 1.500 cc,200000000
+Hyundai,Lain-lain,Matrix,2003,20.000-25.000 km,Bensin,Putih,Manual,All Wheel Drive (AWD),Hatchback,>1.500 - 2.000 cc,48000000
+Toyota,4.2,Land Cruiser,1996,>300.000 km,Diesel,Hitam,Manual,4X4,Jeep,>3.000 cc,275000000
+Honda,VTEC,Jazz,2006,100.000-105.000 km,Bensin,Abu-abu,Automatic,4X2,Compact & City Car,>1.500 - 2.000 cc,78000000
+Honda,E,Mobilio,2014,30.000-35.000 km,Bensin,Silver,Manual,?,?,>1.000 - 1.500 cc,139000000
+Nissan,Lain-lain,Grand livina,2011,195.000-200.000 km,Bensin,Abu-abu,Automatic,Front Wheel Drive (FWD),Minibus,>1.000 - 1.500 cc,90500000
+Daihatsu,Xi,Xenia,2011,105.000-110.000 km,Bensin,Hitam,Manual,4X2,Minibus,>1.000 - 1.500 cc,90000000
+Toyota,Lain-lain,Corolla,1995,125.000-130.000 km,Bensin,Hitam,Manual,?,Sedan,?,47000000
+Toyota,G,Avanza,2013,110.000-115.000 km,Bensin,Silver,Manual,All Wheel Drive (AWD),?,?,122000000
+Honda,E,Brio,2013,35.000-40.000 km,Bensin,Oranye,Manual,4X2,Hatchback,<1.000 cc,94000000
+Daihatsu,Lain-lain,Espass,1997,95.000-100.000 km,Bensin,Coklat,Manual,4X2,Van,>1.500 - 2.000 cc,35000000
+Honda,RS,Brio,2017,15.000-20.000 km,Bensin,Putih,Manual,?,?,?,132000000
+BMW,528i E39 2.8,Serie 5,1997,130.000-135.000 km,Bensin,Silver,Automatic Triptonic,?,?,?,65000000
+Daihatsu,TX,Terios,2012,75.000-80.000 km,Bensin,Silver,Manual,Rear Wheel Drive (RWD),SUV,>1.000 - 1.500 cc,137500000
+Nissan,1.2,March,2012,30.000-35.000 km,Bensin,Silver,Manual,?,?,?,83500000
+Toyota,G,Calya,2017,15.000-20.000 km,Bensin,Silver,Automatic,4X2,SUV,>1.000 - 1.500 cc,125000000
+Toyota,G TRD,Fortuner,2012,70.000-75.000 km,Diesel,Hitam,Automatic,4X2,MPV,>2.000 - 3.000 cc,240000000
+Toyota,G,Altis,2008,175.000-180.000 km,Bensin,Silver,Automatic,?,Sedan,>1.500 - 2.000 cc,100000000
+Toyota,G,Calya,2017,35.000-40.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),MPV,>1.000 - 1.500 cc,118000000
+Suzuki,GX,Wagon R,2014,25.000-30.000 km,Bensin,Hitam,Manual,?,?,?,75000000
+Honda,Lain-lain,Freed,2010,85.000-90.000 km,Bensin,Silver,Automatic,?,Minibus,?,143000000
+Toyota,S,Avanza,2007,105.000-110.000 km,Bensin,Silver,Automatic,4X2,Minibus,>1.000 - 1.500 cc,85000000
+Honda,E CVT,HR-V,2017,15.000-20.000 km,Bensin,Merah,Automatic Triptonic,Front Wheel Drive (FWD),Coupe,>1.000 - 1.500 cc,253756888
+Toyota,Q,Sienta,2019,0-5.000 km,Bensin,Hitam,Automatic,Front Wheel Drive (FWD),Van,?,257850000
+Toyota,G,Innova,2010,105.000-110.000 km,Bensin,Hitam,Manual,4X2,MPV,>1.500 - 2.000 cc,138000000
+Suzuki,Lain-lain,SX4,2008,115.000-120.000 km,Bensin,Abu-abu,Manual,?,Minibus,?,70000000
+Toyota,Lain-lain,Lain-lain,1990,20.000-25.000 km,Bensin,Hitam,Manual,Front Wheel Drive (FWD),Sedan,>1.000 - 1.500 cc,27000000
+Nissan,Lain-lain,X-Trail,2005,95.000-100.000 km,Bensin,Hitam,Automatic,4X2,SUV,>2.000 - 3.000 cc,72000000
+Mercedes-Benz,Lain-lain,Lain-lain,1995,100.000-105.000 km,Diesel,Putih,Manual,4X2,Bus,>3.000 cc,85000000
+Toyota,G,Yaris,2014,20.000-25.000 km,Bensin,Abu-abu,Automatic,?,?,>1.000 - 1.500 cc,144000000
+Toyota,V Diesel,Innova,2008,100.000-105.000 km,Diesel,Abu-abu,Automatic,Rear Wheel Drive (RWD),MPV,>2.000 - 3.000 cc,155000000
+Daihatsu,1.2 X,Sigra,2018,25.000-30.000 km,Bensin,Silver,Automatic,?,?,>1.000 - 1.500 cc,120000000
+Mitsubishi,Dakar,Pajero Sport,2015,85.000-90.000 km,Diesel,Putih,Automatic Triptonic,4X2,Jeep,>2.000 - 3.000 cc,323000000
+Toyota,G,Fortuner,2015,45.000-50.000 km,Diesel,Putih,Automatic,4X2,?,>2.000 - 3.000 cc,299000000
+Suzuki,?,Carry Pick-up,2019,0-5.000 km,Bensin,Putih,Manual,?,?,?,112600000
+Mitsubishi,Dakar 2.4,Pajero Sport,2015,135.000-140.000 km,Diesel,Putih,Automatic,4X2,SUV,>2.000 - 3.000 cc,300000000
+Honda,Satya E,Brio,2018,15.000-20.000 km,Bensin,Merah,Manual,4X2,Minibus,>1.000 - 1.500 cc,135000000
+Toyota,Lain-lain,Kijang Pick-Up,<1986,0-5.000 km,Bensin,Biru,Manual,4X2,Pick-up,>1.000 - 1.500 cc,14750000
+Peugeot,ST,306,1998,130.000-135.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Sedan,>1.500 - 2.000 cc,32000000
+Toyota,Lain-lain,Lain-lain,<1986,150.000-155.000 km,Bensin,Merah,Manual,4X4,Classic Car,>1.000 - 1.500 cc,18000000
+Honda,S,Jazz,2011,75.000-80.000 km,Bensin,Merah,Manual,Front Wheel Drive (FWD),Hatchback,>1.000 - 1.500 cc,135000000
+Daihatsu,Lain-lain,Gran max,2011,0-5.000 km,Bensin,Putih,Manual,4X2,Minibus,>1.000 - 1.500 cc,49500000
+Toyota,J,Yaris,2008,120.000-125.000 km,Bensin,Silver,Manual,4X2,Hatchback,>1.000 - 1.500 cc,89000000
+Toyota,E,Calya,2017,25.000-30.000 km,Bensin,Silver,Manual,?,?,>1.000 - 1.500 cc,109000000
+Toyota,1.5,Kijang,1994,105.000-110.000 km,Bensin,Abu-abu,Manual,4X2,MPV,>1.000 - 1.500 cc,47500000
+Toyota,S,Avanza,2011,90.000-95.000 km,Bensin,Silver,Automatic,4X2,Minibus,>1.000 - 1.500 cc,80000000
+Honda,S,Jazz,2015,0-5.000 km,Bensin,Hitam,Automatic,4X2,Compact & City Car,>1.000 - 1.500 cc,160000000
+Nissan,Lain-lain,Grand livina,2012,80.000-85.000 km,Bensin,Putih,Automatic,?,?,?,103000000
+Toyota,E,Yaris,2013,30.000-35.000 km,Bensin,Silver,Automatic Triptonic,4X2,Compact & City Car,>1.000 - 1.500 cc,117000000
+Suzuki,Lain-lain,SX4,2008,115.000-120.000 km,Bensin,Abu-abu,Manual,?,Minibus,?,70000000
+Suzuki,DILAGO,Wagon R,2014,45.000-50.000 km,Bensin,Silver,Manual,Front Wheel Drive (FWD),Compact & City Car,<1.000 cc,82000000
