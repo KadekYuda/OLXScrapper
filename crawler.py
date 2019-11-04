@@ -12,21 +12,28 @@ car_url_prefix = "https://www.olx.co.id"
 HEADERS = ['Merek', 'Varian', 'Model', 'Tahun', 'Jarak tempuh', 'Tipe bahan bakar', 'Warna', 'Transmisi', 'Sistem Penggerak', 'Tipe bodi', 'Kapasitas mesin', 'Harga']
 MUAT_LAINNYA_XPATH = "/html/body/div/div/main/div/section/div/div/div[5]/div[2]/div[1]/div[3]/button"
 
+options = Options()
+options.headless = True
+options.add_argument("--log-level=3")
+
 def crawlCarData(car_url):
-    response = requests.get(car_url)
-    page = soup(response.text, 'html.parser')
-    header_tag = page.find_all(class_="_25oXN")
-    value_tag  = page.find_all(class_="_2vNpt")
-    value_dict = {}
-    for i in HEADERS:
-        value_dict[i] = '?'
-    for header, value in zip(header_tag, value_tag):
-        if (header.contents[0] in HEADERS):
-            value_dict[header.contents[0]] = value.contents[0]
-    price = page.find(class_='_2xKfz')
-    if price:
-        value_dict['Harga'] = int(page.find(class_='_2xKfz').contents[0].replace('.','').replace('Rp', ''))
-    return value_dict
+    try:
+        response = requests.get(car_url)
+        page = soup(response.text, 'html.parser')
+        header_tag = page.find_all(class_="_25oXN")
+        value_tag  = page.find_all(class_="_2vNpt")
+        value_dict = {}
+        for i in HEADERS:
+            value_dict[i] = '?'
+        for header, value in zip(header_tag, value_tag):
+            if (header.contents[0] in HEADERS):
+                value_dict[header.contents[0]] = value.contents[0]
+        price = page.find(class_='_2xKfz')
+        if price:
+            value_dict['Harga'] = int(page.find(class_='_2xKfz').contents[0].replace('.','').replace('Rp', ''))
+        return value_dict
+    except:
+        return {}
 
 def writeCSV(data, filename = 'test.csv'):
     with open(filename, 'a', newline='') as csvfile:
@@ -45,8 +52,6 @@ def writeDictToCSV(data, filename = 'test.csv', fieldnames = HEADERS):
 
 def crawlWebsite():
     print('[ INFO ] ' + 'Crawling from ' + base_url)
-    options = Options()
-    options.headless = True
     driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(5)
     driver.get(base_url)
@@ -71,12 +76,16 @@ def crawlWebsite():
             car_data.append(value_dict)
             percentage = str(int((len(car_data) / len(car_tags))*100)).rjust(3)
             print('[ ' + percentage + '% ] ' + 'Crawled from ' + car_url)
-        time.sleep(2)
+        time.sleep(1)
     driver.close()
     print('[ INFO ] Crawling finished. Total data crawled: ' + str(len(car_data)))
     return car_data
 
+start_time = time.perf_counter()
 data = crawlWebsite()
+end_time = time.perf_counter()
+x = int(end_time - start_time)
+print("[ INFO ] Lasted for %sh %sm %ss" % ((x // 3600),((x % 3600) // 60),(x % 60)))
 now = datetime.today()
 filename = str(now.year) + str(now.month) + str(now.day) + "-" + str(int(now.timestamp())) + '_carlist.csv'
 writeDictToCSV(data, filename=filename, fieldnames=HEADERS)
